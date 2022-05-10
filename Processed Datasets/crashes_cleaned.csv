@@ -1,0 +1,1096 @@
+Crash_Day,Crash_Date,Borough,Latitude,Longitude,Number_of_Persons_Injured,Aftermath of Accident,Number_of_Persons_Killed,Contributing_Factor,Collision_ID
+Friday,01-10-2021 00:00,BRONX,40.860855,-73.84145,0,No Injury,0,Driver Inexperience,4465332
+Friday,01-10-2021 00:00,BROOKLYN,40.666706,-73.871826,1,Injured,0,Passing or Lane Usage Improper,4463719
+Friday,01-10-2021 00:10,STATEN ISLAND,40.637623,-74.10274,0,No Injury,0,Turning Improperly,4464340
+Friday,01-10-2021 00:30,MANHATTAN,40.7609829,-73.9649873,0,No Injury,0,Driver Inattention,4466855
+Friday,01-10-2021 00:55,MANHATTAN,40.748245,-73.976295,0,No Injury,0,Brakes Defective,4465495
+Friday,01-10-2021 00:56,QUEENS,40.725994,-73.89843,1,Injured,0,Unsafe Speed,4463099
+Friday,01-10-2021 01:00,STATEN ISLAND,40.60545,-74.092636,0,No Injury,0,Passing or Lane Usage Improper,4464020
+Friday,01-10-2021 01:08,BROOKLYN,40.687347,-73.87516,0,No Injury,0,Unsafe Speed,4464384
+Friday,01-10-2021 01:23,BRONX,40.815,-73.89402,0,No Injury,0,Alcohol Involvement,4463611
+Friday,01-10-2021 01:40,BROOKLYN,40.687912,-73.92943,0,No Injury,0,Other Vehicular,4463574
+Friday,01-10-2021 02:00,BROOKLYN,40.66235,-73.95082,0,No Injury,0,Alcohol Involvement,4463223
+Friday,01-10-2021 02:00,BROOKLYN,40.676243,-73.95269,0,No Injury,0,Driver Inattention,4463454
+Friday,01-10-2021 02:04,BROOKLYN,40.64883,-73.90492,1,Injured,0,Alcohol Involvement,4463124
+Friday,01-10-2021 02:30,MANHATTAN,40.792713,-73.96925,0,No Injury,0,Outside Car Distraction,4463265
+Friday,01-10-2021 02:46,BRONX,40.84497,-73.90247,1,Killed,1,Driver Inattention,4463262
+Friday,01-10-2021 02:49,QUEENS,40.71042,-73.85964,1,Injured,0,Driver Inattention,4464222
+Friday,01-10-2021 02:50,MANHATTAN,40.73235,-73.984955,1,Injured,0,Failure to Yield Right-of-Way,4464359
+Friday,01-10-2021 02:53,MANHATTAN,40.72543,-73.99678,1,Injured,0,Following Too Closely,4464635
+Friday,01-10-2021 03:00,BROOKLYN,40.61179,-73.987206,0,No Injury,0,Traffic Control Disregarded,4463314
+Friday,01-10-2021 03:14,QUEENS,40.652565,-73.74656,1,Injured,0,Driver Inattention,4464042
+Friday,01-10-2021 03:48,BRONX,40.82817,-73.86265,0,No Injury,0,Steering Failure,4463236
+Friday,01-10-2021 03:54,MANHATTAN,40.783054,-73.944885,0,No Injury,0,Backing Unsafely,4465150
+Friday,01-10-2021 03:55,BRONX,40.904293,-73.89989,0,No Injury,0,Alcohol Involvement,4463133
+Friday,01-10-2021 04:04,BRONX,40.807808,-73.92384,0,No Injury,0,Driver Inattention,4463197
+Friday,01-10-2021 04:10,MANHATTAN,40.86795,-73.92701,0,No Injury,0,Driver Inattention,4463554
+Friday,01-10-2021 04:10,QUEENS,40.760098,-73.8593,1,Injured,0,Driver Inattention,4463154
+Friday,01-10-2021 04:20,BROOKLYN,40.644913,-73.97443,0,No Injury,0,Brakes Defective,4463371
+Friday,01-10-2021 04:45,BROOKLYN,40.723213,-73.94847,0,No Injury,0,Driver Inattention,4463866
+Friday,01-10-2021 04:50,QUEENS,40.70947,-73.74581,2,Injured,0,Driver Inattention,4463066
+Friday,01-10-2021 05:30,BROOKLYN,40.68685,-73.92349,0,No Injury,0,Driver Inattention,4464936
+Friday,01-10-2021 05:30,QUEENS,40.75383,-73.81841,0,No Injury,0,Passing Too Closely,4464861
+Friday,01-10-2021 05:30,QUEENS,40.759193,-73.86865,0,No Injury,0,Fatigue,4463155
+Friday,01-10-2021 05:45,QUEENS,40.672382,-73.78574,0,No Injury,0,Reaction to Uninvolved Vehicle,4465447
+Friday,01-10-2021 05:50,QUEENS,40.68012,-73.74824,0,No Injury,0,Driver Inattention,4463136
+Friday,01-10-2021 06:40,QUEENS,40.74389,-73.788155,1,Injured,0,Fell Asleep,4463148
+Friday,01-10-2021 06:55,BRONX,40.818798,-73.89213,1,Injured,0,Reaction to Uninvolved Vehicle,4463620
+Friday,01-10-2021 07:45,QUEENS,40.678402,-73.80769,0,No Injury,0,Driver Inattention,4463772
+Friday,01-10-2021 08:00,QUEENS,40.702255,-73.814865,0,No Injury,0,Passing Too Closely,4463756
+Friday,01-10-2021 08:15,BRONX,40.87829,-73.87006,0,No Injury,0,View Obstructed,4463518
+Friday,01-10-2021 08:24,QUEENS,40.71671,-73.913124,0,No Injury,0,Steering Failure,4463127
+Friday,01-10-2021 08:30,QUEENS,40.68126,-73.81869,0,No Injury,0,Following Too Closely,4463888
+Friday,01-10-2021 08:36,BROOKLYN,40.710476,-73.963844,0,No Injury,0,Turning Improperly,4463668
+Friday,01-10-2021 09:12,BROOKLYN,40.5871218,-73.962045,2,Injured,0,Backing Unsafely,4463444
+Friday,01-10-2021 09:20,BROOKLYN,40.642006,-73.9646,0,No Injury,0,Driver Inattention,4463416
+Friday,01-10-2021 09:24,BRONX,40.81103,-73.92149,1,Injured,0,Illness,4463206
+Friday,01-10-2021 09:51,QUEENS,40.685673,-73.76338,0,No Injury,0,Reaction to Uninvolved Vehicle,4464286
+Friday,01-10-2021 09:57,BRONX,40.818058,-73.90501,1,Injured,0,Driver Inattention,4463207
+Friday,01-10-2021 10:00,BRONX,40.8220118,-73.858263,0,No Injury,0,Driver Inattention,4463237
+Friday,01-10-2021 10:11,QUEENS,40.711838,-73.917496,0,No Injury,0,Obstruction By Debris,4464425
+Friday,01-10-2021 10:30,BRONX,40.858418,-73.88514,0,No Injury,0,Following Too Closely,4463759
+Friday,01-10-2021 10:50,QUEENS,40.72604,-73.71829,0,No Injury,0,Failure to Yield Right-of-Way,4463138
+Friday,01-10-2021 11:00,QUEENS,40.739635,-73.86074,1,Injured,0,Following Too Closely,4463386
+Friday,01-10-2021 11:15,BROOKLYN,40.680733,-73.97451,0,No Injury,0,Driver Inattention,4463282
+Friday,01-10-2021 11:20,BROOKLYN,40.6913651,-73.926333,0,No Injury,0,View Obstructed,4464405
+Friday,01-10-2021 11:23,QUEENS,40.727768,-73.89658,0,No Injury,0,Other Vehicular,4463522
+Friday,01-10-2021 11:41,QUEENS,40.6862815,-73.7769974,1,Injured,0,Brakes Defective,4465326
+Friday,01-10-2021 11:55,BROOKLYN,40.637657,-73.913956,1,Injured,0,Lost Consciousness,4463340
+Friday,01-10-2021 12:00,QUEENS,40.710464,-73.90898,0,No Injury,0,Passing Too Closely,4464669
+Friday,01-10-2021 12:00,MANHATTAN,40.82523,-73.939735,0,No Injury,0,Driver Inattention,4464283
+Friday,01-10-2021 12:10,BROOKLYN,40.59469,-73.92721,2,Injured,0,Driver Inexperience,4463696
+Friday,01-10-2021 12:15,BROOKLYN,40.70736,-73.93978,0,No Injury,0,Driver Inattention,4463218
+Friday,01-10-2021 12:30,MANHATTAN,40.80652,-73.944595,0,No Injury,0,Other Vehicular,4463313
+Friday,01-10-2021 12:45,MANHATTAN,40.72475,-73.98043,0,No Injury,0,Passing Too Closely,4464634
+Friday,01-10-2021 12:55,QUEENS,40.772114,-73.9349894,0,No Injury,0,Driver Inattention,4470004
+Friday,01-10-2021 13:02,BROOKLYN,40.632847,-73.928375,4,Injured,0,Driver Inattention,4463161
+Friday,01-10-2021 13:10,BROOKLYN,40.66153,-73.95149,0,No Injury,0,Driver Inattention,4463626
+Friday,01-10-2021 13:19,QUEENS,40.699715,-73.79869,0,No Injury,0,Following Too Closely,4463670
+Friday,01-10-2021 13:25,QUEENS,40.704006,-73.7668,1,Injured,0,Failure to Yield Right-of-Way,4463758
+Friday,01-10-2021 13:30,MANHATTAN,40.751575,-73.982285,0,No Injury,0,Driver Inattention,4463989
+Friday,01-10-2021 13:30,QUEENS,40.67725,-73.826096,0,No Injury,0,Passing or Lane Usage Improper,4463892
+Friday,01-10-2021 13:37,MANHATTAN,40.799976,-73.958626,1,Injured,0,Passenger Distraction,4463160
+Friday,01-10-2021 13:40,MANHATTAN,40.803726,-73.95376,0,No Injury,0,Turning Improperly,4465822
+Friday,01-10-2021 13:48,BRONX,40.83236,-73.85329,0,No Injury,0,Driver Inattention,4463248
+Friday,01-10-2021 14:00,BROOKLYN,40.683228,-73.907135,0,No Injury,0,Pedestrian Confusion,4464626
+Friday,01-10-2021 14:00,BROOKLYN,40.64,-73.90194,0,No Injury,0,Driver Inattention,4463967
+Friday,01-10-2021 14:00,QUEENS,40.657784,-73.77032,0,No Injury,0,Unsafe Lane Changing,4463217
+Friday,01-10-2021 14:00,BROOKLYN,40.603058,-73.98261,1,Injured,0,Driver Inattention,4463300
+Friday,01-10-2021 14:05,STATEN ISLAND,40.607605,-74.08843,0,No Injury,0,Turning Improperly,4464145
+Friday,01-10-2021 14:10,BROOKLYN,40.64671,-73.95811,4,Injured,0,Road Rage,4463423
+Friday,01-10-2021 14:10,MANHATTAN,40.760822,-73.99832,0,No Injury,0,Passing or Lane Usage Improper,4463193
+Friday,01-10-2021 14:20,STATEN ISLAND,0,0,1,Injured,0,Driver Inattention,4463525
+Friday,01-10-2021 14:25,QUEENS,40.72924,-73.8152,0,No Injury,0,Failure to Yield Right-of-Way,4463298
+Friday,01-10-2021 14:25,BROOKLYN,40.60416,-73.99752,0,No Injury,0,Reaction to Uninvolved Vehicle,4463400
+Friday,01-10-2021 14:28,BRONX,40.860344,-73.90713,1,Injured,0,Driver Inattention,4463428
+Friday,01-10-2021 14:30,QUEENS,40.685463,-73.84747,1,Injured,0,Following Too Closely,4463927
+Friday,01-10-2021 14:36,MANHATTAN,40.812603,-73.94567,2,Injured,0,Other Vehicular,4463844
+Friday,01-10-2021 14:37,QUEENS,40.659878,-73.841095,1,Injured,0,Pedestrian Confusion,4463895
+Friday,01-10-2021 15:00,QUEENS,40.67948,-73.75741,1,Injured,0,Following Too Closely,4463657
+Friday,01-10-2021 15:00,BROOKLYN,40.713535,-73.96731,0,No Injury,0,Failure to Yield Right-of-Way,4463219
+Friday,01-10-2021 15:05,BRONX,40.816406,-73.92778,0,No Injury,0,Other Vehicular,4463208
+Friday,01-10-2021 15:06,BROOKLYN,40.688488,-73.91636,0,No Injury,0,Turning Improperly,4464140
+Friday,01-10-2021 15:15,QUEENS,40.745598,-73.864296,0,No Injury,0,Driver Inattention,4464548
+Friday,01-10-2021 15:15,BROOKLYN,40.68963,-73.98575,0,No Injury,0,Following Too Closely,4463542
+Friday,01-10-2021 15:20,QUEENS,40.754803,-73.84501,0,No Injury,0,Backing Unsafely,4463267
+Friday,01-10-2021 15:25,QUEENS,40.745033,-73.87153,0,No Injury,0,Alcohol Involvement,4463264
+Friday,01-10-2021 15:30,BRONX,40.82768,-73.866356,0,No Injury,0,Turning Improperly,4463238
+Friday,01-10-2021 15:32,MANHATTAN,40.7784761,-73.9854489,0,No Injury,0,Failure to Yield Right-of-Way,4469613
+Friday,01-10-2021 15:38,BRONX,40.870033,-73.889,1,Injured,0,Driver Inattention,4464022
+Friday,01-10-2021 15:40,BRONX,40.881687,-73.90283,0,No Injury,0,Failure to Yield Right-of-Way,4464180
+Friday,01-10-2021 15:43,MANHATTAN,40.76696,-73.96386,0,No Injury,0,Passing or Lane Usage Improper,4463682
+Friday,01-10-2021 15:50,BRONX,40.862747,-73.90494,0,No Injury,0,Passing or Lane Usage Improper,4463431
+Friday,01-10-2021 15:50,STATEN ISLAND,40.577045,-74.080795,1,Injured,0,Passing Too Closely,4464031
+Friday,01-10-2021 15:55,MANHATTAN,40.788586,-73.95529,0,No Injury,0,Turning Improperly,4464523
+Friday,01-10-2021 16:00,BRONX,40.88713,-73.863594,0,No Injury,0,Unsafe Speed,4463510
+Friday,01-10-2021 16:09,MANHATTAN,40.718094,-74.001335,0,No Injury,0,Following Too Closely,4463306
+Friday,01-10-2021 16:11,STATEN ISLAND,40.601,-74.07645,0,No Injury,0,Following Too Closely,4464021
+Friday,01-10-2021 16:15,QUEENS,40.75399,-73.90031,0,No Injury,0,Driver Inattention,4463225
+Friday,01-10-2021 16:20,BROOKLYN,40.680717,-73.9463,0,No Injury,0,Unsafe Speed,4464465
+Friday,01-10-2021 16:20,MANHATTAN,40.827633,-73.93577,1,Injured,0,Driver Inattention,4463836
+Friday,01-10-2021 16:25,QUEENS,40.752228,-73.93911,1,Injured,0,Failure to Yield Right-of-Way,4463385
+Friday,01-10-2021 16:25,BROOKLYN,40.73046,-73.95149,0,No Injury,0,Turning Improperly,4463855
+Friday,01-10-2021 16:29,BROOKLYN,40.63969,-73.95321,1,Injured,0,Driver Inattention,4463617
+Friday,01-10-2021 16:30,BROOKLYN,40.678528,-73.977394,0,No Injury,0,View Obstructed,4463279
+Friday,01-10-2021 16:37,MANHATTAN,40.750763,-73.97445,0,No Injury,0,Following Too Closely,4465420
+Friday,01-10-2021 16:40,STATEN ISLAND,40.576504,-74.1037,1,Injured,0,Failure to Yield Right-of-Way,4464044
+Friday,01-10-2021 16:41,QUEENS,40.759293,-73.92646,1,Injured,0,Passing or Lane Usage Improper,4463194
+Friday,01-10-2021 16:44,BRONX,40.885204,-73.857544,0,No Injury,0,Driver Inattention,4463495
+Friday,01-10-2021 16:48,BROOKLYN,40.694355,-73.976585,0,No Injury,0,Unsafe Speed,4463253
+Friday,01-10-2021 17:00,BRONX,40.879345,-73.84797,0,No Injury,0,Unsafe Speed,4463498
+Friday,01-10-2021 17:30,QUEENS,40.770527,-73.892654,0,No Injury,0,Fell Asleep,4463296
+Friday,01-10-2021 17:31,BROOKLYN,40.646297,-73.91274,0,No Injury,0,Driver Inattention,4464087
+Friday,01-10-2021 17:43,BROOKLYN,40.69635,-73.94071,1,Injured,0,Pedestrian Confusion,4463229
+Friday,01-10-2021 17:45,BRONX,40.863327,-73.89921,0,No Injury,0,Unsafe Speed,4464018
+Friday,01-10-2021 17:52,BROOKLYN,40.671925,-73.904526,0,No Injury,0,Unsafe Speed,4463703
+Friday,01-10-2021 18:00,QUEENS,40.681046,-73.849304,1,Injured,0,Failure to Yield Right-of-Way,4465507
+Friday,01-10-2021 18:02,MANHATTAN,40.7224,-73.99165,1,Injured,0,Pedestrian Confusion,4463469
+Friday,01-10-2021 18:16,MANHATTAN,40.80256,-73.943,1,Injured,0,Traffic Control Disregarded,4463943
+Friday,01-10-2021 18:19,BRONX,40.85071,-73.89408,0,No Injury,0,Pedestrian Confusion,4465193
+Friday,01-10-2021 18:30,QUEENS,40.70729,-73.804245,0,No Injury,0,Unsafe Lane Changing,4464330
+Friday,01-10-2021 18:37,BROOKLYN,40.601868,-73.98911,0,No Injury,0,Alcohol Involvement,4463278
+Friday,01-10-2021 18:39,QUEENS,40.68815,-73.84884,0,No Injury,0,Road Rage,4463233
+Friday,01-10-2021 19:00,QUEENS,40.664295,-73.83938,6,Injured,0,View Obstructed,4463793
+Friday,01-10-2021 19:00,BROOKLYN,40.65743,-73.9451,1,Injured,0,Following Too Closely,4464090
+Friday,01-10-2021 19:18,BRONX,40.86877,-73.83174,0,No Injury,0,Turning Improperly,4464865
+Friday,01-10-2021 19:30,QUEENS,40.77051,-73.92547,0,No Injury,0,Failure to Yield Right-of-Way,4464661
+Friday,01-10-2021 19:40,MANHATTAN,40.741642,-73.997444,0,No Injury,0,Driver Inattention,4463270
+Friday,01-10-2021 19:40,QUEENS,40.76966,-73.92365,1,Injured,0,Outside Car Distraction,4463295
+Friday,01-10-2021 19:41,MANHATTAN,40.749603,-73.97951,0,No Injury,0,Driver Inexperience,4463255
+Friday,01-10-2021 19:43,BROOKLYN,40.588486,-73.98552,0,No Injury,0,Unsafe Speed,4463274
+Friday,01-10-2021 19:45,QUEENS,40.68046,-73.84309,0,No Injury,0,Backing Unsafely,4463708
+Friday,01-10-2021 19:47,BRONX,40.84438,-73.86583,3,Injured,0,Alcohol Involvement,4464731
+Friday,01-10-2021 20:03,BROOKLYN,40.651424,-74.00742,1,Injured,0,Driver Inattention,4463339
+Friday,01-10-2021 20:15,QUEENS,40.672314,-73.8036,1,Injured,0,Failure to Yield Right-of-Way,4463790
+Friday,01-10-2021 20:15,MANHATTAN,40.801155,-73.959656,0,No Injury,0,Failure to Yield Right-of-Way,4463275
+Friday,01-10-2021 20:18,BROOKLYN,40.64485,-73.911125,1,Injured,0,Driver Inattention,4464070
+Friday,01-10-2021 20:30,BROOKLYN,40.640682,-73.995476,0,No Injury,0,Driver Inattention,4463367
+Friday,01-10-2021 20:34,QUEENS,40.71307,-73.75362,0,No Injury,0,Following Too Closely,4463669
+Friday,01-10-2021 20:35,QUEENS,40.697205,-73.81334,1,Injured,0,Passing or Lane Usage Improper,4463761
+Friday,01-10-2021 20:45,QUEENS,40.696976,-73.79276,0,No Injury,0,Passing or Lane Usage Improper,4463963
+Friday,01-10-2021 20:56,BROOKLYN,40.66968,-73.91075,0,No Injury,0,Failure to Yield Right-of-Way,4463403
+Friday,01-10-2021 22:01,MANHATTAN,40.772156,-73.95591,0,No Injury,0,Driver Inattention,4464351
+Friday,01-10-2021 22:09,BRONX,40.87391,-73.909164,1,Injured,0,Unsafe Lane Changing,4464834
+Friday,01-10-2021 22:14,BROOKLYN,40.620914,-73.9753,1,Injured,0,Driver Inattention,4463366
+Friday,01-10-2021 22:34,BRONX,40.85153,-73.8649,2,Injured,0,Passing Too Closely,4464736
+Friday,01-10-2021 22:36,QUEENS,40.679726,-73.829834,0,No Injury,0,Alcohol Involvement,4463897
+Friday,01-10-2021 22:47,BROOKLYN,40.69003,-73.93048,1,Injured,0,Driver Inattention,4463511
+Friday,01-10-2021 22:50,QUEENS,40.751495,-73.87991,0,No Injury,0,Driver Inattention,4463361
+Friday,01-10-2021 22:53,BROOKLYN,40.64479,-74.01433,3,Injured,0,Alcohol Involvement,4463334
+Friday,01-10-2021 22:55,QUEENS,40.65973,-73.74174,1,Injured,0,Driver Inattention,4463286
+Friday,01-10-2021 23:58,QUEENS,40.729527,-73.7444,0,No Injury,0,Driver Inattention,4463285
+Friday,02-10-2021 00:00,QUEENS,40.67986,-73.7883,0,No Injury,0,Passing Too Closely,4465937
+Friday,02-10-2021 00:00,BROOKLYN,40.62243,-73.94197,1,Injured,0,Alcohol Involvement,4463491
+Friday,02-10-2021 00:00,BRONX,40.804695,-73.92239,2,Injured,0,Driver Inattention,4463881
+Saturday,02-10-2021 00:27,MANHATTAN,40.72125,-73.99224,0,No Injury,0,Failure to Yield Right-of-Way,4463303
+Saturday,02-10-2021 00:30,QUEENS,40.66496,-73.82226,1,Injured,0,View Obstructed,4463777
+Saturday,02-10-2021 00:30,QUEENS,40.671932,-73.85165,0,No Injury,0,Unsafe Lane Changing,4463684
+Saturday,02-10-2021 00:30,MANHATTAN,40.736004,-73.99362,0,No Injury,0,Following Too Closely,4463776
+Saturday,02-10-2021 00:35,BRONX,40.859642,-73.899826,1,Injured,0,Turning Improperly,4466036
+Saturday,02-10-2021 00:40,BROOKLYN,40.68338,-73.869255,0,No Injury,0,Passing Too Closely,4463721
+Saturday,02-10-2021 00:45,STATEN ISLAND,40.575165,-74.12785,0,No Injury,0,Unsafe Speed,4464036
+Saturday,02-10-2021 00:45,BRONX,40.84708,-73.8867,0,No Injury,0,Turning Improperly,4463795
+Saturday,02-10-2021 01:00,BRONX,40.87535,-73.85721,0,No Injury,0,Passing or Lane Usage Improper,4465832
+Saturday,02-10-2021 01:15,MANHATTAN,40.72293,-73.98865,0,No Injury,0,Driver Inattention,4463452
+Saturday,02-10-2021 01:20,BROOKLYN,40.609333,-73.948425,0,No Injury,0,Failure to Yield Right-of-Way,4463691
+Saturday,02-10-2021 01:30,QUEENS,40.7357,-73.72497,0,No Injury,0,Other Vehicular,4463394
+Saturday,02-10-2021 01:31,BRONX,40.848793,-73.91495,0,No Injury,0,Driver Inattention,4463937
+Saturday,02-10-2021 01:41,QUEENS,40.72469,-73.7541,1,Injured,0,Failure to Yield Right-of-Way,4463287
+Saturday,02-10-2021 01:50,QUEENS,40.69552,-73.86456,0,No Injury,0,Passing or Lane Usage Improper,4463920
+Saturday,02-10-2021 01:50,BRONX,40.856987,-73.890305,0,No Injury,0,Unsafe Speed,4463804
+Saturday,02-10-2021 02:30,BRONX,40.863777,-73.86477,0,No Injury,0,Driver Inexperience,4464303
+Saturday,02-10-2021 02:45,QUEENS,40.680202,-73.82123,1,Injured,0,Passing Too Closely,4463692
+Saturday,02-10-2021 02:56,QUEENS,40.7139,-73.90881,0,No Injury,0,Unsafe Speed,4464666
+Saturday,02-10-2021 03:00,MANHATTAN,40.718582,-73.99175,0,No Injury,0,Oversized Vehicle,4463302
+Saturday,02-10-2021 03:00,BRONX,40.88516,-73.83564,0,No Injury,0,Unsafe Speed,4463499
+Saturday,02-10-2021 03:05,MANHATTAN,40.718292,-73.98248,0,No Injury,0,Passing or Lane Usage Improper,4463288
+Saturday,02-10-2021 03:10,BROOKLYN,40.646885,-73.94916,0,No Injury,0,Following Too Closely,4463593
+Saturday,02-10-2021 03:14,BROOKLYN,40.64503,-73.91998,0,No Injury,0,Alcohol Involvement,4465530
+Saturday,02-10-2021 03:35,BROOKLYN,40.637405,-73.93949,0,No Injury,0,Driver Inattention,4465535
+Saturday,02-10-2021 03:36,QUEENS,40.711628,-73.729385,1,Injured,0,Unsafe Speed,4463398
+Saturday,02-10-2021 03:50,QUEENS,40.75585,-73.88259,0,No Injury,0,Driver Inattention,4463360
+Saturday,02-10-2021 03:59,MANHATTAN,40.749973,-74.002525,0,No Injury,0,Unsafe Lane Changing,4463354
+Saturday,02-10-2021 04:00,BROOKLYN,40.67303,-73.901,0,No Injury,0,Driver Inattention,4463778
+Saturday,02-10-2021 04:00,QUEENS,40.6832,-73.82742,0,No Injury,0,Following Too Closely,4463722
+Saturday,02-10-2021 04:13,BROOKLYN,40.660297,-73.947685,1,Injured,0,Traffic Control Disregarded,4464372
+Saturday,02-10-2021 04:14,BROOKLYN,40.671555,-73.915924,0,No Injury,0,Backing Unsafely,4463404
+Saturday,02-10-2021 04:15,STATEN ISLAND,40.577065,-74.11635,1,Injured,0,Driver Inattention,4463364
+Saturday,02-10-2021 04:28,MANHATTAN,40.81594,-73.945244,0,No Injury,0,Alcohol Involvement,4463826
+Saturday,02-10-2021 04:30,BRONX,0,0,0,No Injury,0,Driver Inattention,4464563
+Saturday,02-10-2021 04:50,MANHATTAN,40.827377,-73.94483,0,No Injury,0,Following Too Closely,4464230
+Saturday,02-10-2021 05:00,QUEENS,40.67812,-73.85828,1,Injured,0,Traffic Control Disregarded,4463685
+Saturday,02-10-2021 05:05,BROOKLYN,40.634888,-73.8909,1,Injured,0,Alcohol Involvement,4463971
+Saturday,02-10-2021 05:09,BRONX,40.89154,-73.83935,0,No Injury,0,Reaction to Uninvolved Vehicle,4463503
+Saturday,02-10-2021 05:20,BRONX,40.84263,-73.90597,0,No Injury,0,Other Vehicular,4463362
+Saturday,02-10-2021 05:27,STATEN ISLAND,40.614582,-74.08547,1,Injured,0,Driver Inattention,4464285
+Saturday,02-10-2021 05:30,QUEENS,40.696613,-73.832115,0,No Injury,0,Passing Too Closely,4463921
+Saturday,02-10-2021 05:45,BROOKLYN,40.626373,-73.99754,0,No Injury,0,Driver Inattention,4477043
+Saturday,02-10-2021 06:00,BROOKLYN,40.643635,-73.899155,0,No Injury,0,Driver Inattention,4464075
+Saturday,02-10-2021 06:00,QUEENS,40.70024,-73.814926,1,Injured,0,Driver Inattention,4463948
+Saturday,02-10-2021 06:14,BRONX,40.8345335,-73.9042077,0,No Injury,0,Alcohol Involvement,4468666
+Saturday,02-10-2021 06:15,QUEENS,40.700005,-73.7547,0,No Injury,0,Failure to Yield Right-of-Way,4463660
+Saturday,02-10-2021 06:32,BROOKLYN,40.70409,-73.9265,0,No Injury,0,Driver Inattention,4464160
+Saturday,02-10-2021 06:33,BRONX,40.88768,-73.877556,0,No Injury,0,Driver Inattention,4464038
+Saturday,02-10-2021 06:40,BROOKLYN,40.69169,-73.90585,0,No Injury,0,Driver Inattention,4464142
+Saturday,02-10-2021 06:45,BROOKLYN,40.63528,-73.91047,0,No Injury,0,Driver Inattention,4463353
+Saturday,02-10-2021 06:58,BROOKLYN,40.710785,-73.95995,1,Injured,0,Failure to Yield Right-of-Way,4463663
+Saturday,02-10-2021 07:05,BRONX,40.852318,-73.89258,0,No Injury,0,Driver Inattention,4463741
+Saturday,02-10-2021 07:50,BROOKLYN,40.5874,-73.97247,0,No Injury,0,Driver Inattention,4464729
+Saturday,02-10-2021 08:00,BRONX,40.812813,-73.91595,0,No Injury,0,Unsafe Speed,4463878
+Saturday,02-10-2021 09:06,MANHATTAN,40.777295,-73.9547074,0,No Injury,0,Driver Inattention,4467323
+Saturday,02-10-2021 09:32,BROOKLYN,40.6445538,-73.9276606,1,Injured,0,Failure to Yield Right-of-Way,4468440
+Saturday,02-10-2021 09:34,QUEENS,40.772346,-73.824684,0,No Injury,0,Traffic Control Disregarded,4463645
+Saturday,02-10-2021 09:40,STATEN ISLAND,40.613586,-74.08267,0,No Injury,0,Driver Inattention,4464287
+Saturday,02-10-2021 09:43,BROOKLYN,40.689598,-73.91025,0,No Injury,0,Passing Too Closely,4464147
+Saturday,02-10-2021 09:50,BRONX,40.89844,-73.87228,0,No Injury,0,Driver Inattention,4464447
+Saturday,02-10-2021 09:52,QUEENS,40.681046,-73.849304,0,No Injury,0,Fell Asleep,4463894
+Saturday,02-10-2021 10:00,QUEENS,40.692574,-73.81142,2,Injured,0,Failure to Yield Right-of-Way,4463928
+Saturday,02-10-2021 10:20,QUEENS,40.68775,-73.79039,0,No Injury,0,Driver Inattention,4463662
+Saturday,02-10-2021 11:00,QUEENS,40.7672,-73.887825,1,Injured,0,Driver Inattention,4463678
+Saturday,02-10-2021 11:24,QUEENS,40.604275,-73.74571,0,No Injury,0,Reaction to Uninvolved Vehicle,4464005
+Saturday,02-10-2021 11:45,MANHATTAN,40.747066,-73.97925,1,Injured,0,Driver Inattention,4464441
+Saturday,02-10-2021 11:50,QUEENS,40.694767,-73.74698,0,No Injury,0,Passing or Lane Usage Improper,4464311
+Saturday,02-10-2021 11:57,QUEENS,40.701218,-73.81622,0,No Injury,0,Turning Improperly,4463917
+Saturday,02-10-2021 12:00,BRONX,40.840767,-73.8658,5,Injured,0,Passing or Lane Usage Improper,4464737
+Saturday,02-10-2021 12:00,MANHATTAN,40.774853,-73.98067,0,No Injury,0,Other Vehicular,4463534
+Saturday,02-10-2021 12:00,QUEENS,40.763966,-73.92267,1,Injured,0,Driver Inattention,4463686
+Saturday,02-10-2021 12:30,BROOKLYN,40.63558,-73.97786,0,No Injury,0,Driver Inattention,4464318
+Saturday,02-10-2021 12:40,BRONX,0,0,3,Injured,0,Drugs (illegal),4463905
+Saturday,02-10-2021 12:47,BRONX,40.845886,-73.915085,0,No Injury,0,Following Too Closely,4463822
+Saturday,02-10-2021 13:00,MANHATTAN,40.73599,-73.98946,0,No Injury,0,Driver Inattention,4463471
+Saturday,02-10-2021 13:14,BROOKLYN,40.70447,-73.94274,1,Injured,0,Driver Inattention,4463676
+Saturday,02-10-2021 13:26,BRONX,40.855812,-73.890785,1,Injured,0,Driver Inattention,4463794
+Saturday,02-10-2021 13:30,STATEN ISLAND,40.612183,-74.08798,0,No Injury,0,Driver Inattention,4463982
+Saturday,02-10-2021 13:38,BROOKLYN,40.5792123,-73.9762585,0,No Injury,0,Driver Inattention,4470096
+Saturday,02-10-2021 13:40,BROOKLYN,40.597923,-73.9872,0,No Injury,0,Driver Inattention,4465598
+Saturday,02-10-2021 13:40,QUEENS,40.75184,-73.94806,0,No Injury,0,Backing Unsafely,4464632
+Saturday,02-10-2021 13:40,BROOKLYN,40.713085,-73.94415,1,Injured,0,Road Rage,4463550
+Saturday,02-10-2021 13:45,BROOKLYN,0,0,0,No Injury,0,Driver Inattention,4465923
+Saturday,02-10-2021 13:49,MANHATTAN,0,0,1,Injured,0,Turning Improperly,4464237
+Saturday,02-10-2021 14:00,QUEENS,40.6955916,-73.742008,0,No Injury,0,Driver Inattention,4463565
+Saturday,02-10-2021 14:20,BRONX,0,0,1,Injured,0,Driver Inattention,4463506
+Saturday,02-10-2021 14:30,QUEENS,0,0,2,Injured,0,Failure to Yield Right-of-Way,4463664
+Saturday,02-10-2021 14:34,BRONX,40.891384,-73.83929,0,No Injury,0,Backing Unsafely,4463606
+Saturday,02-10-2021 14:57,BROOKLYN,0,0,1,Injured,0,Driver Inattention,4463572
+Saturday,02-10-2021 15:05,BROOKLYN,0,0,1,Injured,0,Driver Inattention,4463837
+Saturday,02-10-2021 15:15,BROOKLYN,0,0,1,Injured,0,Failure to Yield Right-of-Way,4463739
+Saturday,02-10-2021 15:28,BRONX,0,0,0,No Injury,0,Driver Inattention,4463864
+Saturday,02-10-2021 15:45,BROOKLYN,0,0,0,No Injury,0,Driver Inattention,4465609
+Saturday,02-10-2021 15:48,MANHATTAN,40.816286,-73.9568076,0,No Injury,0,Passing Too Closely,4470331
+Saturday,02-10-2021 15:50,BRONX,0,0,0,No Injury,0,Following Too Closely,4465817
+Saturday,02-10-2021 15:58,QUEENS,40.7016303,-73.8404963,0,No Injury,0,Backing Unsafely,4463906
+Saturday,02-10-2021 16:00,BROOKLYN,0,0,0,No Injury,0,Driver Inattention,4463549
+Saturday,02-10-2021 16:05,BROOKLYN,0,0,0,No Injury,0,Driver Inattention,4463528
+Saturday,02-10-2021 16:10,QUEENS,0,0,0,No Injury,0,Turning Improperly,4464302
+Saturday,02-10-2021 16:25,BRONX,40.88437,-73.90105,0,No Injury,0,Traffic Control Disregarded,4463584
+Saturday,02-10-2021 16:35,MANHATTAN,0,0,1,Injured,0,Passing or Lane Usage Improper,4463998
+Saturday,02-10-2021 16:39,BROOKLYN,0,0,0,No Injury,0,Driver Inattention,4464097
+Saturday,02-10-2021 16:40,BRONX,0,0,2,Injured,0,Traffic Control Disregarded,4465037
+Saturday,02-10-2021 16:41,MANHATTAN,0,0,0,No Injury,0,Passenger Distraction,4463610
+Saturday,02-10-2021 16:48,BRONX,0,0,0,No Injury,0,Driver Inattention,4464027
+Saturday,02-10-2021 16:50,MANHATTAN,40.872314,-73.91274,2,Injured,0,Driver Inattention,4463595
+Saturday,02-10-2021 16:57,QUEENS,40.76268,-73.77052,0,No Injury,0,Passing or Lane Usage Improper,4464131
+Saturday,02-10-2021 17:07,QUEENS,0,0,0,No Injury,0,Passing or Lane Usage Improper,4463671
+Saturday,02-10-2021 17:15,MANHATTAN,40.747852,-73.99291,0,No Injury,0,Driver Inattention,4463990
+Saturday,02-10-2021 17:35,MANHATTAN,40.733288,-74.005,1,Injured,0,Driver Inexperience,4463939
+Saturday,02-10-2021 17:50,BROOKLYN,40.719215,-73.95701,0,No Injury,0,Passing Too Closely,4463815
+Saturday,02-10-2021 18:00,BRONX,40.814594,-73.88588,0,No Injury,0,Turning Improperly,4463613
+Saturday,02-10-2021 18:33,BROOKLYN,40.63174,-73.90532,0,No Injury,0,Driver Inexperience,4463961
+Saturday,02-10-2021 18:55,QUEENS,40.757183,-73.85503,1,Injured,0,Driver Inattention,4463575
+Saturday,02-10-2021 19:09,QUEENS,40.68542,-73.76526,1,Injured,0,Following Too Closely,4463666
+Saturday,02-10-2021 19:10,BRONX,40.801624,-73.90968,1,Injured,0,Other Vehicular,4463871
+Saturday,02-10-2021 19:12,QUEENS,40.76522,-73.8719,1,Injured,0,Driver Inattention,4463560
+Saturday,02-10-2021 19:13,STATEN ISLAND,40.558887,-74.1977,1,Injured,0,Driver Inattention,4466178
+Saturday,02-10-2021 19:15,BROOKLYN,40.62037,-73.96538,0,No Injury,0,Driver Inattention,4464696
+Saturday,02-10-2021 19:15,BROOKLYN,40.682915,-73.96416,1,Injured,0,View Obstructed,4463608
+Saturday,02-10-2021 19:23,BRONX,40.868694,-73.90237,0,No Injury,0,Reaction to Uninvolved Vehicle,4464069
+Saturday,02-10-2021 19:26,BROOKLYN,40.65723,-73.96025,0,No Injury,0,Driver Inattention,4463624
+Saturday,02-10-2021 19:30,MANHATTAN,40.76687,-73.959785,0,No Injury,0,Following Too Closely,4463724
+Saturday,02-10-2021 19:34,QUEENS,40.76077,-73.91756,1,Injured,0,Backing Unsafely,4463695
+Saturday,02-10-2021 19:35,QUEENS,40.684208,-73.86646,0,No Injury,0,Passing or Lane Usage Improper,4463929
+Saturday,02-10-2021 19:35,QUEENS,40.748013,-73.889755,0,No Injury,0,Driver Inattention,4463568
+Saturday,02-10-2021 19:45,MANHATTAN,40.77592,-73.95317,0,No Injury,0,Passing or Lane Usage Improper,4463742
+Saturday,02-10-2021 19:50,MANHATTAN,40.74461,-73.996895,2,Injured,0,Turning Improperly,4463912
+Saturday,02-10-2021 19:51,MANHATTAN,40.80327,-73.95812,1,Injured,0,Driver Inattention,4464326
+Saturday,02-10-2021 19:54,QUEENS,40.776546,-73.92377,0,No Injury,0,Driver Inattention,4464905
+Saturday,02-10-2021 19:55,BROOKLYN,40.70658,-73.954346,1,Injured,0,Failure to Yield Right-of-Way,4463596
+Saturday,02-10-2021 20:00,STATEN ISLAND,40.5303802,-74.186741,1,Injured,0,Alcohol Involvement,4469524
+Saturday,02-10-2021 20:15,STATEN ISLAND,40.59265,-74.10083,1,Injured,0,Following Too Closely,4464037
+Saturday,02-10-2021 20:20,BROOKLYN,40.677406,-73.983055,1,Injured,0,Failure to Yield Right-of-Way,4463648
+Saturday,02-10-2021 20:30,BRONX,40.83215,-73.84932,0,No Injury,0,Alcohol Involvement,4463968
+Saturday,02-10-2021 20:32,BROOKLYN,40.69419,-73.976,1,Injured,0,Passing or Lane Usage Improper,4464136
+Saturday,02-10-2021 20:34,BROOKLYN,40.642624,-73.97987,0,No Injury,0,Unsafe Lane Changing,4464196
+Saturday,02-10-2021 20:40,QUEENS,40.734768,-73.87459,0,No Injury,0,Driver Inattention,4463604
+Saturday,02-10-2021 21:04,BRONX,40.82364,-73.89391,0,No Injury,0,Driver Inattention,4463616
+Saturday,02-10-2021 21:20,BROOKLYN,40.721703,-73.95065,0,No Injury,0,Traffic Control Disregarded,4464190
+Saturday,02-10-2021 21:30,BROOKLYN,40.711834,-73.95215,0,No Injury,0,Driver Inattention,4464909
+Saturday,02-10-2021 21:30,QUEENS,40.751545,-73.87085,1,Injured,0,Driver Inattention,4463602
+Saturday,02-10-2021 21:30,BROOKLYN,40.63415,-74.02964,0,No Injury,0,Driver Inattention,4463634
+Saturday,02-10-2021 21:50,BROOKLYN,40.683567,-73.94106,0,No Injury,0,Unsafe Speed,4478280
+Saturday,02-10-2021 22:00,MANHATTAN,40.83983,-73.94236,1,Injured,0,Driver Inattention,4466098
+Saturday,02-10-2021 22:20,MANHATTAN,40.83406,-73.944885,1,Injured,0,Driver Inexperience,4463609
+Saturday,02-10-2021 22:21,BROOKLYN,40.627598,-74.03821,0,No Injury,0,Reaction to Uninvolved Vehicle,4463633
+Saturday,02-10-2021 22:24,BROOKLYN,40.684414,-73.869514,1,Injured,0,Driver Inattention,4463779
+Saturday,02-10-2021 22:25,MANHATTAN,40.760857,-73.961075,0,No Injury,0,Driver Inattention,4463680
+Saturday,02-10-2021 22:30,BROOKLYN,40.64638,-73.9288,2,Injured,0,View Obstructed,4465534
+Saturday,02-10-2021 22:30,STATEN ISLAND,40.57917,-74.10106,0,No Injury,0,Turning Improperly,4464494
+Saturday,02-10-2021 22:30,BROOKLYN,40.720013,-73.96204,0,No Injury,0,Driver Inattention,4463883
+Saturday,02-10-2021 22:30,MANHATTAN,40.8645,-73.91904,0,No Injury,0,Driver Inattention,4464371
+Saturday,02-10-2021 22:38,BROOKLYN,40.64313,-73.95044,0,No Injury,0,Backing Unsafely,4464065
+Saturday,02-10-2021 22:45,QUEENS,40.758106,-73.85721,0,No Injury,0,Driver Inattention,4463909
+Saturday,02-10-2021 23:00,BROOKLYN,40.71258,-73.958115,0,No Injury,0,Following Too Closely,4463931
+Saturday,02-10-2021 23:00,BRONX,40.82615,-73.87766,0,No Injury,0,Alcohol Involvement,4464092
+Saturday,02-10-2021 23:04,QUEENS,40.66723,-73.785034,0,No Injury,0,Driver Inexperience,4464585
+Saturday,02-10-2021 23:10,QUEENS,40.681923,-73.831924,0,No Injury,0,Driver Inattention,4463887
+Saturday,02-10-2021 23:30,BRONX,40.845985,-73.884476,1,Injured,0,Driver Inattention,4464255
+Saturday,02-10-2021 23:35,BROOKLYN,40.68837,-73.9449102,1,Injured,0,Traffic Control Disregarded,4469745
+Saturday,03-10-2021 00:00,QUEENS,40.730762,-73.89668,0,No Injury,0,Driver Inattention,4474915
+Saturday,03-10-2021 00:00,QUEENS,40.60702,-73.81943,1,Injured,0,Pedestrian Confusion,4464078
+Saturday,03-10-2021 00:15,QUEENS,40.682343,-73.84005,0,No Injury,0,Alcohol Involvement,4463727
+Sunday,03-10-2021 00:17,BRONX,40.83552,-73.840996,0,No Injury,0,Road Rage,4464344
+Sunday,03-10-2021 00:57,BRONX,40.812077,-73.88681,3,Injured,0,Following Too Closely,4463901
+Sunday,03-10-2021 01:05,BRONX,40.83552,-73.840996,0,No Injury,0,Driver Inexperience,4463935
+Sunday,03-10-2021 01:05,BROOKLYN,40.627247,-74.01429,0,No Injury,0,Driver Inattention,4463900
+Sunday,03-10-2021 01:35,QUEENS,40.739964,-73.89424,1,Injured,0,Alcohol Involvement,4464053
+Sunday,03-10-2021 02:30,QUEENS,40.741013,-73.87057,0,No Injury,0,Passing Too Closely,4463970
+Sunday,03-10-2021 03:55,QUEENS,40.746845,-73.89144,0,No Injury,0,Failure to Yield Right-of-Way,4463913
+Sunday,03-10-2021 04:00,QUEENS,40.7456,-73.868095,1,Injured,0,Failure to Yield Right-of-Way,4463951
+Sunday,03-10-2021 04:00,BROOKLYN,40.627518,-74.010704,0,No Injury,0,Unsafe Speed,4463821
+Sunday,03-10-2021 04:34,BROOKLYN,40.634945,-73.9325,0,No Injury,0,Following Too Closely,4464157
+Sunday,03-10-2021 05:00,BROOKLYN,40.606544,-73.98906,0,No Injury,0,Driver Inattention,4464129
+Sunday,03-10-2021 05:34,MANHATTAN,40.867276,-73.9192147,0,No Injury,0,Driver Inattention,4468227
+Sunday,03-10-2021 06:00,QUEENS,40.7014946,-73.9054655,0,No Injury,0,Traffic Control Disregarded,4464672
+Sunday,03-10-2021 06:45,BRONX,40.8240665,-73.9087095,1,Injured,0,View Obstructed,4463993
+Sunday,03-10-2021 07:07,BROOKLYN,40.607147,-74.01157,1,Injured,0,Traffic Control Disregarded,4463955
+Sunday,03-10-2021 07:33,BRONX,40.8161389,-73.8948691,0,No Injury,0,Passing or Lane Usage Improper,4467355
+Sunday,03-10-2021 07:35,QUEENS,40.709255,-73.75004,1,Injured,0,Traffic Control Disregarded,4464039
+Sunday,03-10-2021 07:40,BRONX,40.8184304,-73.9210458,0,No Injury,0,Unsafe Speed,4464223
+Sunday,03-10-2021 07:40,MANHATTAN,40.83263,-73.93544,0,No Injury,0,Passing Too Closely,4464292
+Sunday,03-10-2021 07:40,BROOKLYN,40.694576,-73.95615,1,Injured,0,Driver Inattention,4464378
+Sunday,03-10-2021 07:45,BRONX,40.843174,-73.91196,0,No Injury,0,Following Too Closely,4464613
+Sunday,03-10-2021 07:55,BROOKLYN,40.67584,-73.91655,1,Injured,0,Failure to Yield Right-of-Way,4464220
+Sunday,03-10-2021 08:00,BRONX,40.830875,-73.83435,0,No Injury,0,Reaction to Uninvolved Vehicle,4464047
+Sunday,03-10-2021 08:00,BROOKLYN,40.680367,-73.92226,0,No Injury,0,Driver Inattention,4464404
+Sunday,03-10-2021 08:15,QUEENS,40.72773,-73.90674,0,No Injury,0,Backing Unsafely,4464607
+Sunday,03-10-2021 08:25,STATEN ISLAND,40.55301,-74.16008,0,No Injury,0,Reaction to Uninvolved Vehicle,4464043
+Sunday,03-10-2021 08:30,QUEENS,40.781647,-73.8367,2,Injured,0,Oversized Vehicle,4464186
+Sunday,03-10-2021 08:30,QUEENS,40.73984,-73.89766,0,No Injury,0,View Obstructed,4464052
+Sunday,03-10-2021 08:30,BROOKLYN,40.680202,-73.934525,0,No Injury,0,View Obstructed,4464394
+Sunday,03-10-2021 08:30,QUEENS,40.78534,-73.843925,0,No Injury,0,Driver Inattention,4464816
+Sunday,03-10-2021 08:30,QUEENS,40.72611,-73.82106,0,No Injury,0,Driver Inattention,4464395
+Sunday,03-10-2021 08:35,BROOKLYN,40.64993,-73.93312,1,Injured,0,Driver Inattention,4464076
+Sunday,03-10-2021 09:00,BRONX,40.89725,-73.855255,1,Injured,0,Unsafe Speed,4464068
+Sunday,03-10-2021 09:04,BRONX,40.83283,-73.91129,0,No Injury,0,Driver Inattention,4464241
+Sunday,03-10-2021 09:15,BROOKLYN,40.67043,-73.928185,1,Injured,0,Passing or Lane Usage Improper,4465763
+Sunday,03-10-2021 09:19,BROOKLYN,40.667507,-73.88007,1,Injured,0,Driver Inattention,4464111
+Sunday,03-10-2021 09:20,BROOKLYN,40.68218,-73.94659,1,Injured,0,Failure to Yield Right-of-Way,4465770
+Sunday,03-10-2021 09:25,STATEN ISLAND,40.57925,-74.07781,0,No Injury,0,Following Too Closely,4464363
+Sunday,03-10-2021 09:30,BROOKLYN,40.67455,-73.89551,0,No Injury,0,Driver Inexperience,4464004
+Sunday,03-10-2021 09:50,BROOKLYN,40.617004,-74.00659,0,No Injury,0,Driver Inattention,4463958
+Sunday,03-10-2021 10:00,BROOKLYN,40.699684,-73.97944,1,Injured,0,Following Too Closely,4464121
+Sunday,03-10-2021 10:15,QUEENS,40.776188,-73.90596,0,No Injury,0,Driver Inattention,4464574
+Sunday,03-10-2021 10:30,QUEENS,40.713436,-73.76119,1,Injured,0,Unsafe Speed,4463964
+Sunday,03-10-2021 10:40,MANHATTAN,40.73131,-73.984665,1,Injured,0,Pedestrian Confusion,4464518
+Sunday,03-10-2021 10:40,MANHATTAN,40.79507,-73.93919,0,No Injury,0,Following Too Closely,4464724
+Sunday,03-10-2021 10:50,BROOKLYN,40.62685,-73.91907,0,No Injury,0,Driver Inattention,4464392
+Sunday,03-10-2021 11:01,MANHATTAN,40.75898,-73.96244,1,Injured,0,Driver Inattention,4464149
+Sunday,03-10-2021 11:15,BROOKLYN,40.70915,-73.93955,0,No Injury,0,Driver Inattention,4464899
+Sunday,03-10-2021 11:36,BRONX,40.842594,-73.89305,0,No Injury,0,Passing Too Closely,4464260
+Sunday,03-10-2021 11:40,BRONX,40.85305,-73.852356,0,No Injury,0,Driver Inattention,4464307
+Sunday,03-10-2021 11:55,STATEN ISLAND,40.615395,-74.06583,0,No Injury,0,Failure to Keep Right,4464675
+Sunday,03-10-2021 11:57,MANHATTAN,40.809086,-73.94859,0,No Injury,0,Driver Inattention,4464048
+Sunday,03-10-2021 12:00,QUEENS,40.57924,-73.84483,1,Injured,0,Failure to Yield Right-of-Way,4464082
+Sunday,03-10-2021 12:14,BROOKLYN,40.71058,-73.96643,0,No Injury,0,Driver Inattention,4464214
+Sunday,03-10-2021 12:15,BROOKLYN,40.73398,-73.95995,0,No Injury,0,Backing Unsafely,4464262
+Sunday,03-10-2021 12:15,BROOKLYN,40.72757,-73.94388,0,No Injury,0,Passing Too Closely,4463994
+Sunday,03-10-2021 12:27,QUEENS,40.699635,-73.80312,0,No Injury,0,Passing Too Closely,4464056
+Sunday,03-10-2021 12:30,BROOKLYN,40.668327,-73.869606,0,No Injury,0,Passing or Lane Usage Improper,4464383
+Sunday,03-10-2021 12:45,BROOKLYN,40.61872,-73.96945,0,No Injury,0,Driver Inattention,4464429
+Sunday,03-10-2021 13:10,QUEENS,40.7489432,-73.8726683,0,No Injury,0,Driver Inattention,4469254
+Sunday,03-10-2021 13:10,BROOKLYN,40.6099823,-73.921878,9,Injured,0,Unsafe Speed,4464357
+Sunday,03-10-2021 13:30,MANHATTAN,40.750763,-73.97445,0,No Injury,0,Passing or Lane Usage Improper,4464061
+Sunday,03-10-2021 13:40,BRONX,40.81937,-73.884285,0,No Injury,0,Passing Too Closely,4464555
+Sunday,03-10-2021 14:05,MANHATTAN,40.8468032,-73.9318503,0,No Injury,0,Driver Inattention,4466461
+Sunday,03-10-2021 14:15,QUEENS,40.741714,-73.90634,1,Injured,0,Failure to Yield Right-of-Way,4464601
+Sunday,03-10-2021 14:19,BRONX,40.838997,-73.91073,0,No Injury,0,Traffic Control Disregarded,4464611
+Sunday,03-10-2021 14:20,QUEENS,40.735245,-73.82388,0,No Injury,0,Pavement Slippery,4465707
+Sunday,03-10-2021 14:21,QUEENS,40.695827,-73.855385,0,No Injury,0,Oversized Vehicle,4464269
+Sunday,03-10-2021 14:22,QUEENS,40.679783,-73.83087,0,No Injury,0,Passing or Lane Usage Improper,4464209
+Sunday,03-10-2021 14:35,QUEENS,40.7684,-73.73755,0,No Injury,0,Driver Inattention,4464273
+Sunday,03-10-2021 14:45,QUEENS,40.675312,-73.777145,0,No Injury,0,Passing Too Closely,4464713
+Sunday,03-10-2021 14:50,MANHATTAN,40.79119,-73.965645,0,No Injury,0,Passing or Lane Usage Improper,4464059
+Sunday,03-10-2021 15:00,BRONX,40.844902,-73.89011,0,No Injury,0,Driver Inattention,4464267
+Sunday,03-10-2021 15:00,QUEENS,40.772346,-73.826584,1,Injured,0,Backing Unsafely,4464187
+Sunday,03-10-2021 15:00,MANHATTAN,40.711777,-73.99971,0,No Injury,0,Driver Inattention,4464681
+Sunday,03-10-2021 15:14,MANHATTAN,40.73669,-73.993126,1,Injured,0,Brakes Defective,4465672
+Sunday,03-10-2021 15:25,BROOKLYN,40.648182,-73.93001,0,No Injury,0,Passing or Lane Usage Improper,4464104
+Sunday,03-10-2021 15:27,BROOKLYN,40.608078,-73.979706,1,Injured,0,Driver Inattention,4472907
+Sunday,03-10-2021 15:30,BROOKLYN,40.71137,-73.936966,0,No Injury,0,Driver Inattention,4464216
+Sunday,03-10-2021 15:37,QUEENS,40.747704,-73.75447,0,No Injury,0,Backing Unsafely,4464708
+Sunday,03-10-2021 15:42,MANHATTAN,40.7697502,-73.9606016,1,Killed,1,Driver Inattention,4464559
+Sunday,03-10-2021 15:50,QUEENS,40.708668,-73.80393,0,No Injury,0,Failure to Yield Right-of-Way,4464980
+Sunday,03-10-2021 15:50,BRONX,40.84678,-73.85526,0,No Injury,0,Other Vehicular,4464730
+Sunday,03-10-2021 15:55,BRONX,40.857525,-73.8818,1,Injured,0,Driver Inattention,4464279
+Sunday,03-10-2021 15:58,BRONX,40.84353,-73.85687,1,Injured,0,Failure to Yield Right-of-Way,4465340
+Sunday,03-10-2021 15:58,QUEENS,40.76295,-73.83196,1,Injured,0,Following Too Closely,4464810
+Sunday,03-10-2021 16:00,BROOKLYN,40.703655,-73.960594,0,No Injury,0,Following Too Closely,4464516
+Sunday,03-10-2021 16:00,BRONX,40.87451,-73.85745,1,Injured,0,Driver Inattention,4464412
+Sunday,03-10-2021 16:05,MANHATTAN,40.7553,-73.97535,0,No Injury,0,Traffic Control Disregarded,4464253
+Sunday,03-10-2021 16:13,BROOKLYN,40.6221,-73.956955,1,Injured,0,Backing Unsafely,4464745
+Sunday,03-10-2021 16:20,BRONX,40.82054,-73.930786,0,No Injury,0,Backing Unsafely,4464245
+Sunday,03-10-2021 16:25,BROOKLYN,40.696033,-73.984535,0,No Injury,0,Following Too Closely,4464118
+Sunday,03-10-2021 16:40,BROOKLYN,40.714382,-73.93345,0,No Injury,0,Driver Inexperience,4464219
+Sunday,03-10-2021 16:50,BROOKLYN,40.613388,-73.995995,0,No Injury,0,Driver Inexperience,4464084
+Sunday,03-10-2021 16:56,BRONX,40.87367,-73.879234,1,Injured,0,Driver Inattention,4465482
+Sunday,03-10-2021 17:00,BROOKLYN,40.696033,-73.984535,0,No Injury,0,Driver Inexperience,4464732
+Sunday,03-10-2021 17:00,BROOKLYN,40.70518,-73.95934,0,No Injury,0,Passing or Lane Usage Improper,4464517
+Sunday,03-10-2021 17:00,QUEENS,40.750717,-73.85877,0,No Injury,0,Driver Inattention,4464264
+Sunday,03-10-2021 17:00,BROOKLYN,40.702023,-73.95583,1,Injured,0,Passing or Lane Usage Improper,4464514
+Sunday,03-10-2021 17:10,QUEENS,40.69041,-73.7555643,2,Injured,0,Unsafe Speed,4464299
+Sunday,03-10-2021 17:20,STATEN ISLAND,40.63416,-74.12194,2,Injured,0,Driver Inexperience,4464421
+Sunday,03-10-2021 17:20,QUEENS,40.748764,-73.86311,1,Injured,0,Driver Inattention,4464228
+Sunday,03-10-2021 17:25,BROOKLYN,40.675846,-73.945564,1,Injured,0,Driver Inattention,4465008
+Sunday,03-10-2021 17:30,BRONX,40.859642,-73.90534,0,No Injury,0,Passing Too Closely,4464655
+Sunday,03-10-2021 17:35,BROOKLYN,40.68993,-73.98148,1,Injured,0,View Obstructed,4464120
+Sunday,03-10-2021 17:50,QUEENS,40.57981,-73.837204,0,No Injury,0,Reaction to Uninvolved Vehicle,4464115
+Sunday,03-10-2021 17:51,MANHATTAN,40.761234,-73.96389,1,Injured,0,Driver Inattention,4464204
+Sunday,03-10-2021 18:00,BROOKLYN,40.696785,-73.95659,0,No Injury,0,Driver Inattention,4464464
+Sunday,03-10-2021 18:05,MANHATTAN,40.746037,-73.990524,1,Injured,0,Driver Inattention,4464246
+Sunday,03-10-2021 18:30,MANHATTAN,40.7520589,-74.0009817,0,No Injury,0,Failure to Yield Right-of-Way,4466485
+Sunday,03-10-2021 18:35,BROOKLYN,40.668774,-73.91693,0,No Injury,0,Unsafe Lane Changing,4464544
+Sunday,03-10-2021 18:40,QUEENS,40.738644,-73.887314,0,No Injury,0,Following Too Closely,4464244
+Sunday,03-10-2021 18:45,QUEENS,40.7664463,-73.8290893,0,No Injury,0,Passing Too Closely,4464444
+Sunday,03-10-2021 18:50,BRONX,40.803677,-73.92209,1,Injured,0,Failure to Yield Right-of-Way,4464218
+Sunday,03-10-2021 18:50,QUEENS,40.70898,-73.80418,1,Injured,0,Failure to Yield Right-of-Way,4464717
+Sunday,03-10-2021 19:00,MANHATTAN,40.746536,-73.985954,2,Injured,0,Failure to Yield Right-of-Way,4464249
+Sunday,03-10-2021 19:10,BRONX,40.8426295,-73.9059589,0,No Injury,0,Other Lighting Defects,4466673
+Sunday,03-10-2021 19:20,MANHATTAN,40.826427,-73.950455,2,Injured,0,Failure to Yield Right-of-Way,4464595
+Sunday,03-10-2021 19:20,QUEENS,40.65965,-73.773834,0,No Injury,0,Following Too Closely,4464177
+Sunday,03-10-2021 19:28,BROOKLYN,40.5915855,-73.9737863,1,Injured,0,Driver Inattention,4464200
+Sunday,03-10-2021 19:30,BROOKLYN,40.618324,-73.95719,0,No Injury,0,Driver Inattention,4464238
+Sunday,03-10-2021 19:33,BROOKLYN,40.591255,-73.96378,1,Injured,0,Failure to Yield Right-of-Way,4464201
+Sunday,03-10-2021 19:35,QUEENS,40.771347,-73.92285,1,Injured,0,Driver Inattention,4464584
+Sunday,03-10-2021 19:40,BROOKLYN,40.69603,-73.9435263,1,Injured,0,Other Vehicular,4466806
+Sunday,03-10-2021 19:46,QUEENS,40.742374,-73.88013,0,No Injury,0,Driver Inattention,4464247
+Sunday,03-10-2021 19:50,BROOKLYN,40.71286,-73.96579,1,Injured,0,Failure to Yield Right-of-Way,4465484
+Sunday,03-10-2021 19:55,QUEENS,40.67243,-73.75637,1,Injured,0,Driver Inattention,4464176
+Sunday,03-10-2021 19:55,QUEENS,40.704006,-73.7668,1,Injured,0,Failure to Yield Right-of-Way,4464125
+Sunday,03-10-2021 20:00,MANHATTAN,40.83937,-73.941536,0,No Injury,0,Driver Inattention,4475999
+Sunday,03-10-2021 20:06,BROOKLYN,40.68085,-73.97112,1,Injured,0,Traffic Control Disregarded,4464317
+Sunday,03-10-2021 20:11,QUEENS,40.68037,-73.84248,1,Injured,0,Backing Unsafely,4464202
+Sunday,03-10-2021 20:15,STATEN ISLAND,40.5953,-74.06287,2,Injured,0,Driver Inattention,4464282
+Sunday,03-10-2021 20:29,QUEENS,40.682987,-73.75459,0,No Injury,0,Traffic Control Disregarded,4478217
+Sunday,03-10-2021 20:45,QUEENS,40.69931,-73.83157,0,No Injury,0,Driver Inattention,4464358
+Sunday,03-10-2021 20:59,MANHATTAN,40.72136,-73.99716,1,Injured,0,Failure to Yield Right-of-Way,4464679
+Sunday,03-10-2021 21:10,QUEENS,40.7015324,-73.8234023,1,Injured,0,Failure to Yield Right-of-Way,4466266
+Sunday,03-10-2021 21:30,QUEENS,40.674744,-73.76368,0,No Injury,0,Reaction to Uninvolved Vehicle,4464291
+Sunday,03-10-2021 21:59,MANHATTAN,40.86369,-73.91707,2,Injured,0,Failure to Yield Right-of-Way,4464396
+Sunday,03-10-2021 22:00,QUEENS,40.70269,-73.78145,0,No Injury,0,Passing or Lane Usage Improper,4465280
+Sunday,03-10-2021 22:00,BROOKLYN,40.647102,-74.007614,0,No Injury,0,Driver Inattention,4464991
+Sunday,03-10-2021 22:23,BRONX,40.833424,-73.909,1,Injured,0,Turning Improperly,4464610
+Sunday,03-10-2021 22:24,BROOKLYN,40.63018,-73.960175,2,Injured,0,Following Too Closely,4464240
+Sunday,03-10-2021 22:36,BROOKLYN,40.61242,-73.94026,0,No Injury,0,Driver Inattention,4465406
+Sunday,03-10-2021 23:00,BRONX,40.859642,-73.90534,1,Injured,0,Unsafe Speed,4465286
+Sunday,03-10-2021 23:00,QUEENS,40.738964,-73.85273,0,No Injury,0,Driver Inattention,4464248
+Sunday,04-10-2021 00:00,QUEENS,40.7110194,-73.8600706,0,No Injury,0,Driver Inattention,4466535
+Sunday,04-10-2021 00:00,MANHATTAN,40.81151,-73.94649,0,No Injury,0,Other Vehicular,4464767
+Sunday,04-10-2021 00:00,BRONX,40.847485,-73.90553,0,No Injury,0,Passing Too Closely,4464301
+Monday,04-10-2021 00:00,STATEN ISLAND,40.582756,-74.13041,1,Injured,0,Pavement Slippery,4464281
+Monday,04-10-2021 00:27,BRONX,40.8431749,-73.9119469,2,Injured,0,Traffic Control Disregarded,4467238
+Monday,04-10-2021 00:47,BRONX,40.83648,-73.897736,0,No Injury,0,Other Vehicular,4464360
+Monday,04-10-2021 01:00,QUEENS,40.712,-73.82546,0,No Injury,0,Driver Inattention,4464251
+Monday,04-10-2021 03:00,STATEN ISLAND,40.629684,-74.11123,1,Injured,0,Animals Action,4464674
+Monday,04-10-2021 03:00,STATEN ISLAND,40.57982,-74.13478,0,No Injury,0,Road Rage,4464195
+Monday,04-10-2021 03:06,BROOKLYN,40.63739,-73.91038,1,Injured,0,Traffic Control Disregarded,4464509
+Monday,04-10-2021 06:07,BRONX,40.859646,-73.86176,1,Injured,0,Driver Inattention,4464313
+Monday,04-10-2021 06:20,QUEENS,40.758343,-73.73062,0,No Injury,0,Pavement Slippery,4464263
+Monday,04-10-2021 06:25,STATEN ISLAND,40.619728,-74.08358,0,No Injury,0,Driver Inattention,4464695
+Monday,04-10-2021 06:40,QUEENS,40.721485,-73.873924,3,Injured,0,Drugs (illegal),4464426
+Monday,04-10-2021 07:20,BROOKLYN,40.620125,-73.94081,0,No Injury,0,Passing or Lane Usage Improper,4464355
+Monday,04-10-2021 07:20,MANHATTAN,40.73722,-73.9814,0,No Injury,0,Failure to Yield Right-of-Way,4464329
+Monday,04-10-2021 07:35,BROOKLYN,40.672607,-73.89992,2,Injured,0,Unsafe Speed,4464451
+Monday,04-10-2021 07:36,BROOKLYN,40.64916,-73.94537,0,No Injury,0,Passing Too Closely,4466203
+Monday,04-10-2021 08:00,BROOKLYN,40.631805,-73.988304,1,Injured,0,Failure to Yield Right-of-Way,4465727
+Monday,04-10-2021 08:00,QUEENS,40.708927,-73.77733,0,No Injury,0,Driver Inattention,4464331
+Monday,04-10-2021 08:00,QUEENS,40.72867,-73.720924,1,Injured,0,Traffic Control Disregarded,4464335
+Monday,04-10-2021 08:00,BROOKLYN,40.637234,-73.94811,0,No Injury,0,Failure to Yield Right-of-Way,4464323
+Monday,04-10-2021 08:01,BRONX,40.83854,-73.868256,0,No Injury,0,Driver Inattention,4464342
+Monday,04-10-2021 08:04,MANHATTAN,40.738216,-73.98568,0,No Injury,0,Passing Too Closely,4464332
+Monday,04-10-2021 08:15,QUEENS,40.752056,-73.85421,1,Injured,0,Failure to Yield Right-of-Way,4464553
+Monday,04-10-2021 08:15,BROOKLYN,40.68014,-73.88941,2,Injured,0,Driver Inattention,4464386
+Monday,04-10-2021 08:20,BROOKLYN,40.7279629,-73.950073,0,No Injury,0,Turning Improperly,4466728
+Monday,04-10-2021 08:30,BRONX,40.8571285,-73.8807926,0,No Injury,0,Driver Inattention,4467004
+Monday,04-10-2021 08:35,MANHATTAN,40.74513,-73.98696,0,No Injury,0,Following Too Closely,4464333
+Monday,04-10-2021 08:36,BROOKLYN,40.671406,-73.87037,0,No Injury,0,Driver Inattention,4466121
+Monday,04-10-2021 08:40,BROOKLYN,40.645626,-73.89763,0,No Injury,0,Driver Inattention,4464512
+Monday,04-10-2021 08:40,QUEENS,40.720955,-73.80935,1,Injured,0,Driver Inattention,4464341
+Monday,04-10-2021 08:43,QUEENS,40.602356,-73.75953,1,Injured,0,Traffic Control Disregarded,4464346
+Monday,04-10-2021 08:45,BROOKLYN,40.698643,-73.94697,1,Injured,0,Following Too Closely,4465775
+Monday,04-10-2021 08:45,QUEENS,40.70934,-73.86267,0,No Injury,0,Other Vehicular,4464422
+Monday,04-10-2021 08:45,BROOKLYN,40.601795,-73.97257,0,No Injury,0,Following Too Closely,4464531
+Monday,04-10-2021 09:00,QUEENS,40.722622,-73.89368,0,No Injury,0,Following Too Closely,4464418
+Monday,04-10-2021 09:05,BRONX,40.86941,-73.84264,0,No Injury,0,Driver Inattention,4464658
+Monday,04-10-2021 09:17,MANHATTAN,40.77543,-73.98398,0,No Injury,0,Passing Too Closely,4465077
+Monday,04-10-2021 09:23,BRONX,40.857414,-73.84662,1,Injured,0,Driver Inattention,4464722
+Monday,04-10-2021 09:30,BRONX,40.80777,-73.9239,1,Injured,0,Turning Improperly,4464590
+Monday,04-10-2021 09:30,BROOKLYN,40.68365,-73.87219,1,Injured,0,Driver Inexperience,4464387
+Monday,04-10-2021 09:45,QUEENS,40.746998,-73.89646,0,No Injury,0,Driver Inattention,4464349
+Monday,04-10-2021 09:50,BROOKLYN,40.67769,-74.00041,0,No Injury,0,Turning Improperly,4464537
+Monday,04-10-2021 09:55,MANHATTAN,40.7441,-73.98977,1,Injured,0,Pedestrian Confusion,4465678
+Monday,04-10-2021 09:55,BRONX,40.90252,-73.85114,0,No Injury,0,Driver Inexperience,4464420
+Monday,04-10-2021 09:59,BRONX,40.810947,-73.927155,2,Injured,0,Driver Inattention,4464591
+Monday,04-10-2021 10:00,BROOKLYN,40.6753803,-73.9081956,1,Injured,0,Driver Inattention,4466445
+Monday,04-10-2021 10:00,MANHATTAN,40.77221,-73.982185,1,Injured,0,Failure to Yield Right-of-Way,4465729
+Monday,04-10-2021 10:00,BRONX,40.821,-73.8969,1,Injured,0,Pedestrian Confusion,4464554
+Monday,04-10-2021 10:00,BROOKLYN,40.713634,-73.94595,0,No Injury,0,Driver Inattention,4464348
+Monday,04-10-2021 10:37,MANHATTAN,40.7152372,-74.0133794,1,Injured,0,Failure to Yield Right-of-Way,4464557
+Monday,04-10-2021 10:38,BROOKLYN,40.7198,-73.953476,0,No Injury,0,Passing Too Closely,4464368
+Monday,04-10-2021 10:42,MANHATTAN,40.74668,-73.9745,1,Injured,0,Driver Inattention,4464410
+Monday,04-10-2021 10:51,MANHATTAN,40.750744,-73.978676,0,No Injury,0,Driver Inattention,4464829
+Monday,04-10-2021 11:00,BROOKLYN,40.6114054,-74.009512,0,No Injury,0,Pedestrian Confusion,4464644
+Monday,04-10-2021 11:00,BROOKLYN,40.61996,-73.982285,0,No Injury,0,Passing or Lane Usage Improper,4464427
+Monday,04-10-2021 11:09,BROOKLYN,40.615433,-73.99775,0,No Injury,0,View Obstructed,4464401
+Monday,04-10-2021 11:10,BRONX,40.877502,-73.86282,0,No Injury,0,Oversized Vehicle,4464413
+Monday,04-10-2021 11:15,BROOKLYN,40.65166,-73.92841,1,Injured,0,Driver Inattention,4464477
+Monday,04-10-2021 11:25,STATEN ISLAND,40.586105,-74.09109,0,No Injury,0,Driver Inattention,4464365
+Monday,04-10-2021 11:30,MANHATTAN,40.763042,-73.956535,0,No Injury,0,Driver Inexperience,4464846
+Monday,04-10-2021 12:07,MANHATTAN,40.792725,-73.947395,1,Injured,0,Backing Unsafely,4464633
+Monday,04-10-2021 12:15,BROOKLYN,40.645622,-73.929726,0,No Injury,0,Failure to Yield Right-of-Way,4464476
+Monday,04-10-2021 12:15,MANHATTAN,40.74707,-73.99107,0,No Injury,0,Driver Inexperience,4464657
+Monday,04-10-2021 12:30,QUEENS,40.747066,-73.8569,1,Injured,0,Failure to Yield Right-of-Way,4464540
+Monday,04-10-2021 12:30,BROOKLYN,40.651196,-73.93032,2,Injured,0,Driver Inattention,4464479
+Monday,04-10-2021 12:45,MANHATTAN,40.7748523,-73.9806585,1,Injured,0,Other Vehicular,4470888
+Monday,04-10-2021 13:00,QUEENS,40.731777,-73.77012,0,No Injury,0,Driver Inattention,4465461
+Monday,04-10-2021 13:00,QUEENS,40.76394,-73.828156,0,No Injury,0,Runaway Vehicle,4464389
+Monday,04-10-2021 13:33,BROOKLYN,40.657696,-73.96236,0,No Injury,0,Other Vehicular,4464449
+Monday,04-10-2021 13:35,QUEENS,40.7088,-73.789474,0,No Injury,0,Driver Inexperience,4464489
+Monday,04-10-2021 14:00,BROOKLYN,40.677296,-73.87682,0,No Injury,0,Other Vehicular,4466119
+Monday,04-10-2021 14:00,MANHATTAN,40.804672,-73.93816,0,No Injury,0,Passing or Lane Usage Improper,4465203
+Monday,04-10-2021 14:05,BROOKLYN,40.65543,-74.003265,0,No Injury,0,Unsafe Lane Changing,4465281
+Monday,04-10-2021 14:26,MANHATTAN,40.814053,-73.93484,0,No Injury,0,Driver Inattention,4464697
+Monday,04-10-2021 14:27,QUEENS,40.75203,-73.92915,0,No Injury,0,Driver Inattention,4464581
+Monday,04-10-2021 14:30,MANHATTAN,40.7388307,-73.9831481,0,No Injury,0,Driver Inattention,4467930
+Monday,04-10-2021 14:30,MANHATTAN,40.709904,-74.01554,0,No Injury,0,Turning Improperly,4465381
+Monday,04-10-2021 14:30,BROOKLYN,40.73051,-73.94341,0,No Injury,0,Passing or Lane Usage Improper,4464535
+Monday,04-10-2021 14:30,QUEENS,40.766273,-73.740074,1,Injured,0,Failure to Yield Right-of-Way,4464701
+Monday,04-10-2021 14:30,BROOKLYN,40.666134,-73.99224,0,No Injury,0,Driver Inattention,4464944
+Monday,04-10-2021 14:33,BROOKLYN,40.6100628,-74.0076032,0,No Injury,0,Driver Inattention,4467137
+Monday,04-10-2021 14:45,QUEENS,40.694798,-73.84026,0,No Injury,0,Passing Too Closely,4464500
+Monday,04-10-2021 14:50,BRONX,40.83419,-73.84525,0,No Injury,0,Following Too Closely,4464435
+Monday,04-10-2021 14:57,BRONX,40.820858,-73.912575,0,No Injury,0,Driver Inattention,4464592
+Monday,04-10-2021 14:58,MANHATTAN,40.846138,-73.93424,1,Injured,0,Driver Inattention,4466096
+Monday,04-10-2021 15:05,BROOKLYN,40.6667077,-73.8718221,1,Injured,0,Driver Inattention,4467249
+Monday,04-10-2021 15:15,BROOKLYN,40.6893066,-73.9852405,0,No Injury,0,Unsafe Lane Changing,4464470
+Monday,04-10-2021 15:15,MANHATTAN,40.749073,-73.99946,0,No Injury,0,Backing Unsafely,4464958
+Monday,04-10-2021 15:16,MANHATTAN,40.74048,-73.99106,0,No Injury,0,Oversized Vehicle,4464443
+Monday,04-10-2021 15:30,QUEENS,40.734768,-73.86487,0,No Injury,0,Driver Inattention,4464576
+Monday,04-10-2021 15:40,MANHATTAN,40.824757,-73.94052,1,Injured,0,Other Vehicular,4466140
+Monday,04-10-2021 15:40,QUEENS,40.659172,-73.839874,0,No Injury,0,Passing or Lane Usage Improper,4464528
+Monday,04-10-2021 15:47,QUEENS,40.687332,-73.77967,1,Injured,0,Other Vehicular,4464596
+Monday,04-10-2021 15:50,QUEENS,40.7133,-73.76456,0,No Injury,0,Backing Unsafely,4465976
+Monday,04-10-2021 15:51,MANHATTAN,40.7357435,-73.9925888,1,Injured,0,Passing or Lane Usage Improper,4465006
+Monday,04-10-2021 15:54,BROOKLYN,40.6796955,-73.9302767,2,Injured,0,Following Too Closely,4468046
+Monday,04-10-2021 16:15,QUEENS,40.604244,-73.74342,0,No Injury,0,Passing Too Closely,4464583
+Monday,04-10-2021 16:20,BROOKLYN,40.6031897,-73.9584733,1,Injured,0,Failure to Yield Right-of-Way,4466285
+Monday,04-10-2021 16:20,QUEENS,40.66614,-73.82326,0,No Injury,0,Following Too Closely,4464533
+Monday,04-10-2021 16:25,BROOKLYN,40.639275,-73.90746,1,Injured,0,Driver Inattention,4465569
+Monday,04-10-2021 16:48,BROOKLYN,40.699627,-73.923836,0,No Injury,0,Driver Inattention,4464627
+Monday,04-10-2021 16:51,BRONX,40.831974,-73.9235,0,No Injury,0,Passing or Lane Usage Improper,4464546
+Monday,04-10-2021 16:58,BRONX,40.815,-73.89402,2,Injured,0,View Obstructed,4464567
+Monday,04-10-2021 17:00,QUEENS,40.74646,-73.878105,0,No Injury,0,Driver Inattention,4464571
+Monday,04-10-2021 17:00,QUEENS,40.732582,-73.86806,0,No Injury,0,Passing Too Closely,4464775
+Monday,04-10-2021 17:00,BROOKLYN,40.70547,-73.95024,0,No Injury,0,Driver Inattention,4464521
+Monday,04-10-2021 17:10,BROOKLYN,40.671207,-73.877235,0,No Injury,0,Driver Inattention,4465052
+Monday,04-10-2021 17:23,BROOKLYN,40.62769,-73.935555,0,No Injury,0,Driver Inattention,4464488
+Monday,04-10-2021 17:25,BRONX,40.82099,-73.89589,0,No Injury,0,Traffic Control Disregarded,4464561
+Monday,04-10-2021 17:25,QUEENS,40.730064,-73.87157,0,No Injury,0,Following Too Closely,4464746
+Monday,04-10-2021 17:30,MANHATTAN,40.755356,-73.977425,1,Injured,0,Failure to Yield Right-of-Way,4464624
+Monday,04-10-2021 17:35,BROOKLYN,40.6728794,-73.9717506,0,No Injury,0,Failure to Yield Right-of-Way,4468737
+Monday,04-10-2021 17:38,BRONX,40.900486,-73.85411,1,Injured,0,Driver Inattention,4464481
+Monday,04-10-2021 17:43,STATEN ISLAND,40.63001,-74.08173,0,No Injury,0,Driver Inattention,4464733
+Monday,04-10-2021 17:46,MANHATTAN,40.765606,-73.97203,2,Injured,0,Unsafe Lane Changing,4464566
+Monday,04-10-2021 17:52,MANHATTAN,40.7379177,-73.9922237,0,No Injury,0,View Obstructed,4466554
+Monday,04-10-2021 17:55,BRONX,40.86038,-73.88889,0,No Injury,0,Following Too Closely,4464609
+Monday,04-10-2021 18:00,BRONX,40.832085,-73.89561,0,No Injury,0,Driver Inattention,4465173
+Monday,04-10-2021 18:00,QUEENS,40.677925,-73.75486,0,No Injury,0,Passing or Lane Usage Improper,4464688
+Monday,04-10-2021 18:08,BRONX,40.865314,-73.84911,0,No Injury,0,Passing or Lane Usage Improper,4464723
+Monday,04-10-2021 18:24,BRONX,40.852882,-73.91561,1,Injured,0,Passing Too Closely,4464598
+Monday,04-10-2021 18:30,STATEN ISLAND,40.54167,-74.20798,1,Injured,0,Driver Inattention,4466175
+Monday,04-10-2021 18:40,QUEENS,40.695854,-73.818924,2,Injured,0,Following Too Closely,4464826
+Monday,04-10-2021 18:52,MANHATTAN,40.73705,-73.99285,0,No Injury,0,Passing Too Closely,4464485
+Monday,04-10-2021 19:00,MANHATTAN,40.7198654,-73.9897554,0,No Injury,0,Passing or Lane Usage Improper,4466820
+Monday,04-10-2021 19:00,QUEENS,40.76052,-73.87379,1,Injured,0,Driver Inattention,4464748
+Monday,04-10-2021 19:18,BROOKLYN,40.685513,-73.97429,2,Injured,0,Pavement Defective,4464460
+Monday,04-10-2021 19:30,QUEENS,40.70245,-73.89837,0,No Injury,0,Following Too Closely,4464668
+Monday,04-10-2021 19:40,BRONX,40.85078,-73.91222,0,No Injury,0,Oversized Vehicle,4464597
+Monday,04-10-2021 19:50,QUEENS,40.6641936,-73.8411164,1,Injured,0,Following Too Closely,4464534
+Monday,04-10-2021 19:50,BRONX,40.804256,-73.9193,0,No Injury,0,Turning Improperly,4464852
+Monday,04-10-2021 19:57,BRONX,40.843643,-73.90676,0,No Injury,0,Passing Too Closely,4464547
+Monday,04-10-2021 19:58,QUEENS,40.66796,-73.77155,1,Injured,0,Unsafe Speed,4465939
+Monday,04-10-2021 20:00,BROOKLYN,40.710667,-73.93361,1,Injured,0,Passing or Lane Usage Improper,4464886
+Monday,04-10-2021 20:10,QUEENS,40.743416,-73.88873,0,No Injury,0,Driver Inattention,4464568
+Monday,04-10-2021 20:15,QUEENS,40.771984,-73.91891,1,Injured,0,Turning Improperly,4464883
+Monday,04-10-2021 20:50,BROOKLYN,40.642113,-73.90307,1,Injured,0,Failure to Yield Right-of-Way,4464513
+Monday,04-10-2021 21:27,MANHATTAN,40.72618,-73.99128,0,No Injury,0,Reaction to Uninvolved Vehicle,4464524
+Monday,04-10-2021 21:29,MANHATTAN,40.71843,-74.000534,0,No Injury,0,Failure to Yield Right-of-Way,4464680
+Monday,04-10-2021 21:30,QUEENS,40.67165,-73.76382,0,No Injury,0,Unsafe Speed,4464586
+Monday,04-10-2021 22:00,QUEENS,40.740036,-73.85289,0,No Injury,0,Turning Improperly,4465288
+Monday,04-10-2021 22:00,MANHATTAN,40.760124,-73.99265,0,No Injury,0,Backing Unsafely,4464625
+Monday,04-10-2021 22:45,BROOKLYN,40.68011,-73.89599,3,Injured,0,Driver Inattention,4465046
+Monday,04-10-2021 23:13,BROOKLYN,40.615406,-73.97424,3,Injured,0,Alcohol Involvement,4464693
+Monday,04-10-2021 23:14,MANHATTAN,40.78069,-73.9466,1,Injured,0,Alcohol Involvement,4464562
+Monday,04-10-2021 23:20,STATEN ISLAND,40.553497,-74.17334,0,No Injury,0,Driver Inattention,4465735
+Monday,05-10-2021 00:00,QUEENS,40.70087,-73.89853,0,No Injury,0,Turning Improperly,4464903
+Monday,05-10-2021 00:01,BRONX,40.839127,-73.87797,0,No Injury,0,Passing or Lane Usage Improper,4471352
+Monday,05-10-2021 00:09,BROOKLYN,40.65177,-73.95597,1,Injured,0,Driver Inattention,4464579
+Tuesday,05-10-2021 00:55,BROOKLYN,40.66895,-73.9339,0,No Injury,0,Following Too Closely,4464511
+Tuesday,05-10-2021 04:00,QUEENS,40.667995,-73.786766,0,No Injury,0,Following Too Closely,4464599
+Tuesday,05-10-2021 06:00,MANHATTAN,40.797644,-73.9508548,0,No Injury,0,Passing Too Closely,4470783
+Tuesday,05-10-2021 06:00,QUEENS,40.746902,-73.871956,0,No Injury,0,Driver Inexperience,4464761
+Tuesday,05-10-2021 06:14,BRONX,40.80715,-73.90821,2,Injured,0,Unsafe Speed,4464725
+Tuesday,05-10-2021 06:15,MANHATTAN,40.7468134,-74.0079578,0,No Injury,0,Unsafe Lane Changing,4466478
+Tuesday,05-10-2021 06:55,BROOKLYN,40.676144,-73.893074,0,No Injury,0,Driver Inattention,4465054
+Tuesday,05-10-2021 07:00,MANHATTAN,40.7721666,-73.9917575,1,Injured,0,Backing Unsafely,4468885
+Tuesday,05-10-2021 07:10,BROOKLYN,40.71407,-73.954346,0,No Injury,0,Turning Improperly,4464710
+Tuesday,05-10-2021 07:25,QUEENS,40.677773,-73.809906,2,Injured,0,Failure to Yield Right-of-Way,4464879
+Tuesday,05-10-2021 07:29,BROOKLYN,40.65559,-73.91187,0,No Injury,0,Other Vehicular,4464719
+Tuesday,05-10-2021 08:00,QUEENS,40.689945,-73.80508,4,Injured,0,Turning Improperly,4465274
+Tuesday,05-10-2021 08:04,BROOKLYN,40.672234,-73.88471,1,Injured,0,Drugs (illegal),4465062
+Tuesday,05-10-2021 08:25,BRONX,40.807,-73.88343,0,No Injury,0,Backing Unsafely,4464780
+Tuesday,05-10-2021 08:30,BROOKLYN,40.59442,-73.95463,0,No Injury,0,Backing Unsafely,4465172
+Tuesday,05-10-2021 08:33,BROOKLYN,40.666542,-73.91423,0,No Injury,0,Other Vehicular,4464718
+Tuesday,05-10-2021 08:50,MANHATTAN,40.7576718,-73.9948239,0,No Injury,0,Following Too Closely,4466487
+Tuesday,05-10-2021 09:10,BROOKLYN,40.673653,-73.99905,0,No Injury,0,Fell Asleep,4464839
+Tuesday,05-10-2021 09:15,BROOKLYN,40.661167,-73.87969,4,Injured,0,Driver Inattention,4465043
+Tuesday,05-10-2021 09:16,MANHATTAN,40.7171,-73.9986,0,No Injury,0,Failure to Yield Right-of-Way,4464754
+Tuesday,05-10-2021 09:28,MANHATTAN,40.798794,-73.93795,0,No Injury,0,Backing Unsafely,4464704
+Tuesday,05-10-2021 09:35,BROOKLYN,40.598522,-73.98657,1,Injured,0,Traffic Control Disregarded,4464677
+Tuesday,05-10-2021 09:49,MANHATTAN,40.716812,-73.99777,0,No Injury,0,Unsafe Lane Changing,4464757
+Tuesday,05-10-2021 09:56,BRONX,40.898563,-73.85866,1,Injured,0,Failure to Yield Right-of-Way,4465019
+Tuesday,05-10-2021 10:00,MANHATTAN,40.725395,-74.00585,0,No Injury,0,Failure to Yield Right-of-Way,4465157
+Tuesday,05-10-2021 10:23,QUEENS,40.696926,-73.89463,0,No Injury,0,Backing Unsafely,4464882
+Tuesday,05-10-2021 10:30,BROOKLYN,40.652332,-73.92722,0,No Injury,0,Driver Inattention,4464820
+Tuesday,05-10-2021 10:55,BRONX,40.8414831,-73.8885224,1,Injured,0,Driver Inattention,4466919
+Tuesday,05-10-2021 11:00,BROOKLYN,40.66792,-73.98074,0,No Injury,0,Driver Inattention,4464836
+Tuesday,05-10-2021 11:05,MANHATTAN,40.72302,-73.97998,0,No Injury,0,Driver Inattention,4465616
+Tuesday,05-10-2021 11:07,BROOKLYN,40.656693,-73.89464,0,No Injury,0,Road Rage,4465047
+Tuesday,05-10-2021 11:15,MANHATTAN,40.7609926,-73.990759,1,Injured,0,Pedestrian Confusion,4466465
+Tuesday,05-10-2021 12:00,BRONX,40.838715,-73.91998,0,No Injury,0,Passing or Lane Usage Improper,4464853
+Tuesday,05-10-2021 12:05,MANHATTAN,40.7440605,-74.0068099,0,No Injury,0,Following Too Closely,4466488
+Tuesday,05-10-2021 12:10,BRONX,40.834503,-73.93037,0,No Injury,0,Backing Unsafely,4465343
+Tuesday,05-10-2021 12:30,QUEENS,40.688656,-73.79562,2,Injured,0,Turning Improperly,4464716
+Tuesday,05-10-2021 12:47,BROOKLYN,40.685463,-73.9506,0,No Injury,0,Turning Improperly,4465772
+Tuesday,05-10-2021 12:50,MANHATTAN,40.7391,-74.001015,1,Injured,0,Outside Car Distraction,4464751
+Tuesday,05-10-2021 12:55,BRONX,40.823658,-73.91206,1,Injured,0,Passing Too Closely,4464770
+Tuesday,05-10-2021 12:58,BROOKLYN,40.62701,-73.956635,1,Injured,0,Pedestrian Confusion,4464744
+Tuesday,05-10-2021 13:00,MANHATTAN,40.720654,-73.99256,1,Injured,0,Following Too Closely,4464756
+Tuesday,05-10-2021 13:10,BROOKLYN,40.643425,-73.96581,0,No Injury,0,Other Vehicular,4464740
+Tuesday,05-10-2021 13:12,BROOKLYN,40.70801,-73.95673,1,Injured,0,Driver Inattention,4464915
+Tuesday,05-10-2021 13:15,QUEENS,40.765995,-73.90751,0,No Injury,0,Driver Inattention,4464895
+Tuesday,05-10-2021 13:25,QUEENS,40.65122,-73.834984,0,No Injury,0,Passing or Lane Usage Improper,4464876
+Tuesday,05-10-2021 13:30,QUEENS,40.65771,-73.76757,0,No Injury,0,Driver Inattention,4464863
+Tuesday,05-10-2021 13:45,BRONX,40.8462709,-73.8919165,0,No Injury,0,Driver Inattention,4467336
+Tuesday,05-10-2021 13:53,QUEENS,40.7518401,-73.9035714,1,Injured,0,Traffic Control Disregarded,4464798
+Tuesday,05-10-2021 14:00,QUEENS,40.78168,-73.84595,0,No Injury,0,Oversized Vehicle,4464783
+Tuesday,05-10-2021 14:05,BRONX,40.8688059,-73.8905447,0,No Injury,0,Driver Inattention,4467344
+Tuesday,05-10-2021 14:06,QUEENS,40.702076,-73.87917,0,No Injury,0,Turning Improperly,4464913
+Tuesday,05-10-2021 14:30,BRONX,40.8349135,-73.9157139,0,No Injury,0,Passing Too Closely,4468295
+Tuesday,05-10-2021 14:42,QUEENS,40.691704,-73.8198,0,No Injury,0,Road Rage,4464828
+Tuesday,05-10-2021 14:50,MANHATTAN,40.7622904,-73.9861058,0,No Injury,0,Following Too Closely,4470008
+Tuesday,05-10-2021 14:50,QUEENS,40.780224,-73.80255,1,Injured,0,Traffic Control Disregarded,4464781
+Tuesday,05-10-2021 14:50,QUEENS,40.721806,-73.884384,0,No Injury,0,Backing Unsafely,4465352
+Tuesday,05-10-2021 15:05,QUEENS,40.59272,-73.78338,1,Injured,0,Unsafe Speed,4464877
+Tuesday,05-10-2021 15:15,BROOKLYN,40.68852,-73.984856,0,No Injury,0,Passing Too Closely,4465104
+Tuesday,05-10-2021 15:15,BROOKLYN,40.71504,-73.95857,1,Injured,0,Driver Inattention,4464943
+Tuesday,05-10-2021 15:28,QUEENS,40.75763,-73.782,0,No Injury,0,Backing Unsafely,4464773
+Tuesday,05-10-2021 15:30,MANHATTAN,40.759197,-73.98463,0,No Injury,0,Driver Inattention,4464755
+Tuesday,05-10-2021 15:30,QUEENS,40.76242,-73.92391,0,No Injury,0,Failure to Yield Right-of-Way,4464912
+Tuesday,05-10-2021 15:45,QUEENS,40.7694,-73.90685,1,Injured,0,Driver Inattention,4464911
+Tuesday,05-10-2021 15:55,QUEENS,40.7574719,-73.9390994,1,Injured,0,Driver Inattention,4466952
+Tuesday,05-10-2021 16:07,BROOKLYN,40.636707,-73.97286,0,No Injury,0,Lost Consciousness,4465655
+Tuesday,05-10-2021 16:15,STATEN ISLAND,40.601204,-74.06509,0,No Injury,0,Driver Inattention,4464825
+Tuesday,05-10-2021 16:18,BRONX,40.830208,-73.90324,1,Injured,0,Unsafe Speed,4464769
+Tuesday,05-10-2021 16:20,QUEENS,40.694183,-73.80544,0,No Injury,0,Driver Inattention,4477605
+Tuesday,05-10-2021 16:40,BROOKLYN,40.698364,-73.93773,0,No Injury,0,Driver Inattention,4464934
+Tuesday,05-10-2021 16:42,BRONX,40.887737,-73.86755,0,No Injury,0,Unsafe Speed,4465036
+Tuesday,05-10-2021 16:44,QUEENS,40.7520129,-73.9148586,1,Injured,0,Driver Inattention,4467881
+Tuesday,05-10-2021 16:56,MANHATTAN,40.759586,-73.968056,1,Injured,0,Driver Inattention,4465915
+Tuesday,05-10-2021 17:00,MANHATTAN,40.758981,-73.9959428,0,No Injury,0,Passing or Lane Usage Improper,4466489
+Tuesday,05-10-2021 17:13,BROOKLYN,40.62977,-73.97925,0,No Injury,0,Lost Consciousness,4465656
+Tuesday,05-10-2021 17:23,BROOKLYN,40.635372,-73.988174,0,No Injury,0,Lost Consciousness,4466194
+Tuesday,05-10-2021 17:38,BROOKLYN,40.682133,-74.00038,1,Injured,0,Driver Inattention,4464840
+Tuesday,05-10-2021 17:39,MANHATTAN,40.79668,-73.93492,1,Injured,0,Pedestrian Confusion,4464965
+Tuesday,05-10-2021 17:39,BROOKLYN,40.67725,-73.92754,0,No Injury,0,Driver Inattention,4465030
+Tuesday,05-10-2021 17:39,MANHATTAN,40.79383,-73.93702,1,Injured,0,Failure to Yield Right-of-Way,4465994
+Tuesday,05-10-2021 17:55,QUEENS,40.72382,-73.908615,0,No Injury,0,Failure to Yield Right-of-Way,4465351
+Tuesday,05-10-2021 17:56,BRONX,40.85586,-73.86476,0,No Injury,0,Other Vehicular,4464881
+Tuesday,05-10-2021 18:15,BROOKLYN,40.7133,-73.96742,0,No Injury,0,Passing Too Closely,4464914
+Tuesday,05-10-2021 18:15,MANHATTAN,40.807907,-73.94584,0,No Injury,0,Other Vehicular,4465825
+Tuesday,05-10-2021 18:16,QUEENS,40.763126,-73.83125,0,No Injury,0,Failure to Yield Right-of-Way,4464768
+Tuesday,05-10-2021 18:17,BRONX,40.844986,-73.88136,1,Injured,0,Lost Consciousness,4464844
+Tuesday,05-10-2021 18:30,BROOKLYN,40.66135,-73.96122,0,No Injury,0,Unsafe Lane Changing,4465117
+Tuesday,05-10-2021 18:42,QUEENS,40.71659,-73.86184,0,No Injury,0,Unsafe Lane Changing,4464776
+Tuesday,05-10-2021 18:45,BROOKLYN,40.671326,-73.87093,1,Injured,0,Failure to Yield Right-of-Way,4465057
+Tuesday,05-10-2021 18:50,BROOKLYN,40.61656,-73.94024,0,No Injury,0,Backing Unsafely,4464960
+Tuesday,05-10-2021 19:00,BROOKLYN,40.669018,-73.89766,0,No Injury,0,Driver Inattention,4465048
+Tuesday,05-10-2021 19:11,BROOKLYN,40.673943,-73.86393,1,Injured,0,Failure to Yield Right-of-Way,4465063
+Tuesday,05-10-2021 19:17,BROOKLYN,40.6771,-73.92479,1,Injured,0,Driver Inattention,4465022
+Tuesday,05-10-2021 19:20,BRONX,40.833275,-73.9092684,1,Injured,0,Driver Inattention,4466660
+Tuesday,05-10-2021 19:23,QUEENS,40.76007,-73.90928,1,Injured,0,Pavement Defective,4464906
+Tuesday,05-10-2021 19:35,QUEENS,40.731968,-73.88478,1,Injured,0,Driver Inattention,4465156
+Tuesday,05-10-2021 19:41,MANHATTAN,40.719128,-74.00517,1,Injured,0,Driver Inattention,4464921
+Tuesday,05-10-2021 20:00,MANHATTAN,40.864895,-73.91913,0,No Injury,0,Driver Inattention,4465956
+Tuesday,05-10-2021 20:30,QUEENS,40.7065539,-73.7944515,0,No Injury,0,Steering Failure,4467213
+Tuesday,05-10-2021 20:34,BRONX,40.84366,-73.92005,2,Injured,0,Backing Unsafely,4465348
+Tuesday,05-10-2021 20:36,BROOKLYN,40.59876,-73.97794,2,Injured,0,Driver Inexperience,4465494
+Tuesday,05-10-2021 20:38,QUEENS,40.72773,-73.90674,2,Injured,0,Obstruction By Debris,4464805
+Tuesday,05-10-2021 20:54,STATEN ISLAND,40.558773,-74.130165,0,No Injury,0,Driver Inexperience,4464830
+Tuesday,05-10-2021 21:00,BRONX,40.843296,-73.88685,0,No Injury,0,Driver Inattention,4464841
+Tuesday,05-10-2021 21:20,BROOKLYN,40.711643,-73.94392,0,No Injury,0,Driver Inattention,4465139
+Tuesday,05-10-2021 21:35,BRONX,40.817978,-73.91892,0,No Injury,0,Other Vehicular,4465554
+Tuesday,05-10-2021 21:57,BROOKLYN,40.639297,-73.98409,1,Injured,0,Failure to Yield Right-of-Way,4465144
+Tuesday,05-10-2021 22:00,QUEENS,40.7564741,-73.9472651,0,No Injury,0,Alcohol Involvement,4470733
+Tuesday,05-10-2021 22:10,BROOKLYN,40.6922138,-73.9229175,1,Injured,0,Failure to Yield Right-of-Way,4469435
+Tuesday,05-10-2021 23:00,MANHATTAN,40.79275,-73.97132,0,No Injury,0,Passing or Lane Usage Improper,4464831
+Tuesday,05-10-2021 23:12,BRONX,40.87314,-73.90572,0,No Injury,0,Turning Improperly,4465092
+Tuesday,05-10-2021 23:15,BRONX,40.865364,-73.87001,0,No Injury,0,Passing or Lane Usage Improper,4465479
+Tuesday,05-10-2021 23:34,QUEENS,40.70437,-73.8177,0,No Injury,0,Following Too Closely,4464857
+Tuesday,06-10-2021 00:00,QUEENS,40.68074,-73.76963,0,No Injury,0,Passing Too Closely,4465137
+Tuesday,06-10-2021 00:00,BRONX,40.87067,-73.85645,0,No Injury,0,Passing or Lane Usage Improper,4465038
+Tuesday,06-10-2021 00:00,MANHATTAN,40.814373,-73.941475,0,No Injury,0,Following Too Closely,4465230
+Wednesday,06-10-2021 00:00,MANHATTAN,40.75898,-73.96244,1,Injured,0,Driver Inattention,4464837
+Wednesday,06-10-2021 00:10,BRONX,40.86774,-73.85955,1,Injured,0,Traffic Control Disregarded,4464927
+Wednesday,06-10-2021 00:33,MANHATTAN,40.854828,-73.93132,2,Injured,0,Traffic Control Disregarded,4466162
+Wednesday,06-10-2021 00:50,BROOKLYN,40.711216,-73.94043,0,No Injury,0,Following Too Closely,4464896
+Wednesday,06-10-2021 01:21,STATEN ISLAND,40.59034,-74.06663,0,No Injury,0,Driver Inattention,4465111
+Wednesday,06-10-2021 02:15,QUEENS,40.745827,-73.88526,0,No Injury,0,Driver Inattention,4464870
+Wednesday,06-10-2021 02:45,QUEENS,40.754776,-73.85376,0,No Injury,0,Fell Asleep,4464859
+Wednesday,06-10-2021 04:32,QUEENS,40.7215085,-73.7893972,0,No Injury,0,Road Rage,4468735
+Wednesday,06-10-2021 05:05,BROOKLYN,40.711166,-73.9489,3,Injured,0,Driver Inattention,4464887
+Wednesday,06-10-2021 05:34,BROOKLYN,40.673267,-73.98952,1,Injured,0,Failure to Yield Right-of-Way,4465188
+Wednesday,06-10-2021 06:17,MANHATTAN,40.769634,-73.94841,1,Injured,0,Reaction to Uninvolved Vehicle,4464919
+Wednesday,06-10-2021 06:20,QUEENS,40.787884,-73.84103,1,Injured,0,View Obstructed,4465464
+Wednesday,06-10-2021 06:30,BROOKLYN,40.681465,-73.970535,1,Injured,0,Failure to Yield Right-of-Way,4465451
+Wednesday,06-10-2021 07:00,BROOKLYN,40.633125,-73.915695,0,No Injury,0,Passing Too Closely,4465084
+Wednesday,06-10-2021 07:04,BRONX,40.89466,-73.86137,0,No Injury,0,Following Too Closely,4465064
+Wednesday,06-10-2021 07:10,MANHATTAN,40.8012713,-73.9362873,0,No Injury,0,Following Too Closely,4466288
+Wednesday,06-10-2021 07:45,QUEENS,40.7466701,-73.9478358,1,Injured,0,Driver Inattention,4467408
+Wednesday,06-10-2021 07:50,QUEENS,40.768658,-73.90979,0,No Injury,0,Glare,4465300
+Wednesday,06-10-2021 07:51,QUEENS,40.705128,-73.82819,0,No Injury,0,Following Too Closely,4465565
+Wednesday,06-10-2021 07:58,BRONX,40.830944,-73.89766,0,No Injury,0,Passing Too Closely,4464932
+Wednesday,06-10-2021 08:00,STATEN ISLAND,40.554695,-74.17314,0,No Injury,0,Driver Inattention,4466189
+Wednesday,06-10-2021 08:00,BRONX,40.836945,-73.91532,0,No Injury,0,Passing or Lane Usage Improper,4465995
+Wednesday,06-10-2021 08:00,BROOKLYN,40.69221,-73.92293,0,No Injury,0,Driver Inattention,4464966
+Wednesday,06-10-2021 08:00,QUEENS,40.745827,-73.90111,0,No Injury,0,Backing Unsafely,4464962
+Wednesday,06-10-2021 08:03,BROOKLYN,40.616848,-73.91169,1,Injured,0,Failure to Yield Right-of-Way,4464985
+Wednesday,06-10-2021 08:05,BRONX,40.83135,-73.82684,1,Injured,0,View Obstructed,4464998
+Wednesday,06-10-2021 08:19,QUEENS,40.696804,-73.79411,3,Injured,0,Failure to Yield Right-of-Way,4465974
+Wednesday,06-10-2021 08:20,BROOKLYN,40.6082,-73.920715,0,No Injury,0,Driver Inattention,4464993
+Wednesday,06-10-2021 08:20,BROOKLYN,40.664333,-73.89684,0,No Injury,0,Reaction to Uninvolved Vehicle,4465059
+Wednesday,06-10-2021 08:27,MANHATTAN,40.712307,-73.99437,1,Injured,0,Driver Inattention,4465714
+Wednesday,06-10-2021 08:30,BROOKLYN,40.7084944,-73.9388628,0,No Injury,0,Driver Inattention,4464996
+Wednesday,06-10-2021 08:35,QUEENS,40.678703,-73.781746,0,No Injury,0,Traffic Control Disregarded,4464931
+Wednesday,06-10-2021 08:40,QUEENS,40.665997,-73.81648,0,No Injury,0,Passing or Lane Usage Improper,4464972
+Wednesday,06-10-2021 08:46,BRONX,40.884346,-73.88706,2,Injured,0,Traffic Control Disregarded,4465238
+Wednesday,06-10-2021 08:50,MANHATTAN,40.80538,-73.93458,1,Injured,0,Failure to Yield Right-of-Way,4465285
+Wednesday,06-10-2021 09:00,QUEENS,40.68221,-73.77257,0,No Injury,0,Failure to Yield Right-of-Way,4464976
+Wednesday,06-10-2021 09:00,BROOKLYN,40.68049,-73.89252,0,No Injury,0,Passing or Lane Usage Improper,4465060
+Wednesday,06-10-2021 09:00,MANHATTAN,40.80123,-73.94996,0,No Injury,0,Passing Too Closely,4465829
+Wednesday,06-10-2021 09:00,QUEENS,40.66612,-73.82225,0,No Injury,0,Following Too Closely,4464973
+Wednesday,06-10-2021 09:05,MANHATTAN,40.802483,-73.946754,0,No Injury,0,Passing Too Closely,4465793
+Wednesday,06-10-2021 09:06,BROOKLYN,40.636406,-73.9673,0,No Injury,0,Other Vehicular,4465258
+Wednesday,06-10-2021 09:30,MANHATTAN,40.71384,-73.99273,1,Injured,0,Failure to Yield Right-of-Way,4465001
+Wednesday,06-10-2021 09:46,QUEENS,40.763874,-73.92251,1,Injured,0,Passenger Distraction,4464957
+Wednesday,06-10-2021 09:50,BROOKLYN,40.6028547,-73.9844572,0,No Injury,0,Traffic Control Disregarded,4467127
+Wednesday,06-10-2021 09:50,MANHATTAN,40.780437,-73.94989,1,Injured,0,Driver Inattention,4465149
+Wednesday,06-10-2021 09:51,BRONX,40.849106,-73.89495,1,Injured,0,Outside Car Distraction,4464959
+Wednesday,06-10-2021 10:00,BROOKLYN,40.610046,-73.97325,0,No Injury,0,Driver Inattention,4464970
+Wednesday,06-10-2021 10:09,BROOKLYN,40.699165,-73.914925,0,No Injury,0,Passing or Lane Usage Improper,4465181
+Wednesday,06-10-2021 10:15,BROOKLYN,40.626858,-73.96824,0,No Injury,0,Driver Inattention,4465651
+Wednesday,06-10-2021 10:22,QUEENS,40.76471,-73.830696,0,No Injury,0,Backing Unsafely,4465155
+Wednesday,06-10-2021 10:28,QUEENS,40.68899,-73.85309,0,No Injury,0,Following Too Closely,4465116
+Wednesday,06-10-2021 10:30,STATEN ISLAND,40.564762,-74.10083,0,No Injury,0,Turning Improperly,4465113
+Wednesday,06-10-2021 10:30,MANHATTAN,40.79814,-73.94051,0,No Injury,0,Unsafe Lane Changing,4464950
+Wednesday,06-10-2021 10:35,MANHATTAN,40.83492,-73.944244,0,No Injury,0,Driver Inexperience,4466181
+Wednesday,06-10-2021 10:50,MANHATTAN,40.7580218,-73.9817932,0,No Injury,0,Driver Inexperience,4468031
+Wednesday,06-10-2021 10:52,BROOKLYN,40.67274,-73.899,0,No Injury,0,Turning Improperly,4465044
+Wednesday,06-10-2021 10:55,BRONX,40.868004,-73.88425,0,No Injury,0,Backing Unsafely,4465481
+Wednesday,06-10-2021 10:55,MANHATTAN,40.721672,-73.992035,1,Injured,0,Road Rage,4465719
+Wednesday,06-10-2021 11:00,BRONX,40.86923,-73.89604,0,No Injury,0,Following Too Closely,4465243
+Wednesday,06-10-2021 11:00,QUEENS,40.75203,-73.92915,1,Injured,0,Failure to Yield Right-of-Way,4465697
+Wednesday,06-10-2021 11:05,BROOKLYN,40.668007,-73.980644,0,No Injury,0,Backing Unsafely,4465186
+Wednesday,06-10-2021 11:26,BROOKLYN,40.683514,-73.97596,1,Injured,0,Following Too Closely,4465189
+Wednesday,06-10-2021 11:35,QUEENS,40.692066,-73.7654,1,Injured,0,Failure to Yield Right-of-Way,4464975
+Wednesday,06-10-2021 11:38,MANHATTAN,40.728386,-73.9777,0,No Injury,0,Road Rage,4465652
+Wednesday,06-10-2021 11:40,BROOKLYN,40.60897,-73.979866,0,No Injury,0,Passing or Lane Usage Improper,4464969
+Wednesday,06-10-2021 11:40,BROOKLYN,40.681934,-73.922554,0,No Injury,0,Passing Too Closely,4465827
+Wednesday,06-10-2021 11:50,BRONX,40.893295,-73.857,0,No Injury,0,Driver Inattention,4465024
+Wednesday,06-10-2021 12:00,QUEENS,40.69474,-73.80625,4,Injured,0,Failure to Yield Right-of-Way,4465010
+Wednesday,06-10-2021 12:06,BRONX,0,0,1,Injured,0,Backing Unsafely,4465032
+Wednesday,06-10-2021 12:07,BROOKLYN,40.671593,-73.9843,0,No Injury,0,Passing Too Closely,4465183
+Wednesday,06-10-2021 12:25,MANHATTAN,40.802593,-73.95103,0,No Injury,0,Unsafe Speed,4465828
+Wednesday,06-10-2021 12:30,BROOKLYN,40.665344,-73.900856,0,No Injury,0,Turning Improperly,4465045
+Wednesday,06-10-2021 12:37,BROOKLYN,40.67443,-73.96694,1,Injured,0,Following Too Closely,4465803
+Wednesday,06-10-2021 12:45,BROOKLYN,40.6702118,-73.8983398,0,No Injury,0,Turning Improperly,4467258
+Wednesday,06-10-2021 12:55,BRONX,40.826324,-73.88351,1,Injured,0,Drugs (illegal),4465202
+Wednesday,06-10-2021 13:00,BROOKLYN,40.684082,-73.90864,0,No Injury,0,Driver Inattention,4465182
+Wednesday,06-10-2021 13:10,BROOKLYN,40.6866823,-73.9793644,1,Injured,0,Driver Inattention,4467197
+Wednesday,06-10-2021 13:31,BROOKLYN,40.7214426,-73.9452203,0,No Injury,0,Passing Too Closely,4466896
+Wednesday,06-10-2021 13:40,MANHATTAN,40.748684,-73.98915,0,No Injury,0,Passing or Lane Usage Improper,4465754
+Wednesday,06-10-2021 13:45,BROOKLYN,40.667336,-73.99124,1,Injured,0,Driver Inattention,4465175
+Wednesday,06-10-2021 13:45,MANHATTAN,40.733738,-73.97719,1,Injured,0,Pedestrian Confusion,4465005
+Wednesday,06-10-2021 14:00,MANHATTAN,40.7592705,-73.9808868,1,Injured,0,Failure to Yield Right-of-Way,4466466
+Wednesday,06-10-2021 14:15,STATEN ISLAND,40.5732959,-74.1337868,0,No Injury,0,Driver Inattention,4467533
+Wednesday,06-10-2021 14:25,BROOKLYN,40.641945,-73.916626,0,No Injury,0,Following Too Closely,4465085
+Wednesday,06-10-2021 14:27,MANHATTAN,40.73103,-73.989815,1,Injured,0,Backing Unsafely,4466153
+Wednesday,06-10-2021 14:30,BROOKLYN,40.654457,-73.960785,0,No Injury,0,Driver Inexperience,4465267
+Wednesday,06-10-2021 14:40,QUEENS,40.6066288,-73.7482855,0,No Injury,0,Passing Too Closely,4466438
+Wednesday,06-10-2021 14:44,BROOKLYN,40.67125,-73.97134,0,No Injury,0,Passing Too Closely,4465979
+Wednesday,06-10-2021 14:50,MANHATTAN,40.751656,-73.99014,0,No Injury,0,Driver Inattention,4465757
+Wednesday,06-10-2021 14:50,QUEENS,40.66036,-73.841194,0,No Injury,0,Road Rage,4465140
+Wednesday,06-10-2021 14:52,BROOKLYN,40.667236,-73.93525,0,No Injury,0,Driver Inattention,4465119
+Wednesday,06-10-2021 14:55,MANHATTAN,40.849285,-73.93894,0,No Injury,0,Traffic Control Disregarded,4466172
+Wednesday,06-10-2021 14:56,BRONX,40.875896,-73.88477,0,No Injury,0,Backing Unsafely,4465262
+Wednesday,06-10-2021 14:59,QUEENS,40.65973,-73.74174,1,Injured,0,Failure to Yield Right-of-Way,4465017
+Wednesday,06-10-2021 15:10,QUEENS,40.687016,-73.77487,1,Injured,0,Failure to Yield Right-of-Way,4465128
+Wednesday,06-10-2021 15:20,BROOKLYN,40.662807,-73.89646,0,No Injury,0,Backing Unsafely,4465050
+Wednesday,06-10-2021 15:20,BRONX,40.82196,-73.9085,0,No Injury,0,Steering Failure,4465319
+Wednesday,06-10-2021 15:30,MANHATTAN,40.8084473,-73.9449951,0,No Injury,0,Unsafe Lane Changing,4468700
+Wednesday,06-10-2021 15:30,BROOKLYN,40.6818566,-73.96759,0,No Injury,0,Driver Inattention,4466602
+Wednesday,06-10-2021 15:30,QUEENS,40.67165,-73.741005,1,Injured,0,Failure to Yield Right-of-Way,4465029
+Wednesday,06-10-2021 15:30,MANHATTAN,40.75066,-73.987785,1,Injured,0,Driver Inattention,4465071
+Wednesday,06-10-2021 16:00,BROOKLYN,40.67573,-73.9746,1,Injured,0,Driver Inattention,4465192
+Wednesday,06-10-2021 16:00,BRONX,40.820564,-73.905235,0,No Injury,0,Failure to Yield Right-of-Way,4465316
+Wednesday,06-10-2021 16:00,QUEENS,40.765087,-73.782875,0,No Injury,0,Driver Inattention,4465066
+Wednesday,06-10-2021 16:00,BROOKLYN,40.67619,-73.9081,1,Injured,0,Reaction to Uninvolved Vehicle,4465115
+Wednesday,06-10-2021 16:00,BROOKLYN,40.674423,-73.97234,0,No Injury,0,Driver Inattention,4465191
+Wednesday,06-10-2021 16:02,BROOKLYN,40.69118,-73.868065,0,No Injury,0,Other Vehicular,4466111
+Wednesday,06-10-2021 16:10,BROOKLYN,40.699238,-73.95487,0,No Injury,0,Oversized Vehicle,4465132
+Wednesday,06-10-2021 16:10,QUEENS,40.66708,-73.81033,0,No Injury,0,Traffic Control Disregarded,4465079
+Wednesday,06-10-2021 16:11,BRONX,40.82054,-73.930786,0,No Injury,0,Passing Too Closely,4465680
+Wednesday,06-10-2021 16:15,BROOKLYN,40.67443,-73.96694,1,Injured,0,Driver Inattention,4465880
+Wednesday,06-10-2021 16:20,MANHATTAN,40.736164,-73.97891,1,Injured,0,Failure to Yield Right-of-Way,4465676
+Wednesday,06-10-2021 16:20,QUEENS,40.68815,-73.84884,1,Injured,0,Traffic Control Disregarded,4465511
+Wednesday,06-10-2021 16:20,BROOKLYN,40.64545,-73.97311,0,No Injury,0,Other Vehicular,4465726
+Wednesday,06-10-2021 16:30,BROOKLYN,40.597923,-73.9872,1,Injured,0,Driver Inattention,4465599
+Wednesday,06-10-2021 16:34,QUEENS,40.770706,-73.828636,0,No Injury,0,Passing Too Closely,4465158
+Wednesday,06-10-2021 16:35,QUEENS,40.675885,-73.7557617,0,No Injury,0,Following Too Closely,4467205
+Wednesday,06-10-2021 16:38,BROOKLYN,40.652447,-73.92561,0,No Injury,0,Turning Improperly,4466243
+Wednesday,06-10-2021 16:40,QUEENS,40.75576,-73.73939,0,No Injury,0,Glare,4465067
+Wednesday,06-10-2021 16:41,BRONX,40.895195,-73.859795,0,No Injury,0,Driver Inattention,4465213
+Wednesday,06-10-2021 16:43,QUEENS,40.77584,-73.922455,1,Injured,0,Following Too Closely,4465301
+Wednesday,06-10-2021 16:50,BRONX,40.867256,-73.88363,1,Injured,0,Traffic Control Disregarded,4465298
+Wednesday,06-10-2021 16:50,BROOKLYN,40.696785,-73.95659,0,No Injury,0,Passing or Lane Usage Improper,4465758
+Wednesday,06-10-2021 17:08,BROOKLYN,40.6835047,-73.9115123,1,Injured,0,Driver Inexperience,4468362
+Wednesday,06-10-2021 17:08,BROOKLYN,40.68995,-73.93124,1,Injured,0,Driver Inattention,4465823
+Wednesday,06-10-2021 17:10,BROOKLYN,40.6107571,-73.9627161,0,No Injury,0,Traffic Control Disregarded,4466950
+Wednesday,06-10-2021 17:10,BROOKLYN,40.6757,-73.89729,0,No Injury,0,Unsafe Speed,4465073
+Wednesday,06-10-2021 17:10,BRONX,40.881397,-73.85427,0,No Injury,0,Backing Unsafely,4465039
+Wednesday,06-10-2021 17:17,MANHATTAN,40.79581,-73.96911,1,Injured,0,Passing or Lane Usage Improper,4465072
+Wednesday,06-10-2021 17:20,QUEENS,40.710728,-73.91863,0,No Injury,0,Passing or Lane Usage Improper,4465359
+Wednesday,06-10-2021 17:30,MANHATTAN,40.7434737,-73.9767593,0,No Injury,0,Passing or Lane Usage Improper,4468283
+Wednesday,06-10-2021 17:30,MANHATTAN,40.7533873,-73.996304,0,No Injury,0,Following Too Closely,4466706
+Wednesday,06-10-2021 17:30,QUEENS,40.73376,-73.93743,0,No Injury,0,Passing Too Closely,4465364
+Wednesday,06-10-2021 17:35,BRONX,40.881264,-73.83875,1,Injured,0,Driver Inattention,4465811
+Wednesday,06-10-2021 17:35,BRONX,40.854263,-73.869385,0,No Injury,0,Passing or Lane Usage Improper,4465211
+Wednesday,06-10-2021 17:40,BROOKLYN,40.655397,-73.9297608,1,Injured,0,Driver Inattention,4465087
+Wednesday,06-10-2021 17:40,BRONX,40.858376,-73.89637,0,No Injury,0,Passing Too Closely,4465200
+Wednesday,06-10-2021 17:45,BRONX,40.88078,-73.88347,0,No Injury,0,Following Too Closely,4465289
+Wednesday,06-10-2021 17:45,BROOKLYN,40.676147,-73.98391,1,Injured,0,Traffic Control Disregarded,4465184
+Wednesday,06-10-2021 17:50,BRONX,40.844685,-73.89176,0,No Injury,0,Passing or Lane Usage Improper,4474279
+Wednesday,06-10-2021 17:50,QUEENS,40.727226,-73.71051,0,No Injury,0,Failure to Yield Right-of-Way,4465031
+Wednesday,06-10-2021 17:55,BROOKLYN,40.698643,-73.94697,0,No Injury,0,Driver Inattention,4474844
+Wednesday,06-10-2021 17:58,QUEENS,40.68019,-73.75545,1,Injured,0,Turning Improperly,4465134
+Wednesday,06-10-2021 18:00,QUEENS,40.71186,-73.73554,1,Injured,0,Driver Inattention,4465021
+Wednesday,06-10-2021 18:00,BROOKLYN,40.680847,-73.92563,0,No Injury,0,Driver Inexperience,4465794
+Wednesday,06-10-2021 18:03,QUEENS,40.5962568,-73.766834,0,No Injury,0,Passing or Lane Usage Improper,4466439
+Wednesday,06-10-2021 18:15,BROOKLYN,40.6786223,-73.927268,0,No Injury,0,Failure to Yield Right-of-Way,4468119
+Wednesday,06-10-2021 18:15,BRONX,40.86514,-73.801544,0,No Injury,0,Brakes Defective,4465227
+Wednesday,06-10-2021 18:20,MANHATTAN,40.7601559,-73.998798,0,No Injury,0,Road Rage,4467430
+Wednesday,06-10-2021 18:30,QUEENS,40.66561,-73.73568,0,No Injury,0,Passing or Lane Usage Improper,4465098
+Wednesday,06-10-2021 18:40,MANHATTAN,40.7609926,-73.990759,1,Injured,0,Failure to Yield Right-of-Way,4466308
+Wednesday,06-10-2021 18:40,MANHATTAN,40.738686,-73.99588,1,Injured,0,Driver Inattention,4465713
+Wednesday,06-10-2021 18:40,MANHATTAN,40.7501,-73.974945,1,Injured,0,Driver Inattention,4465453
+Wednesday,06-10-2021 18:41,BROOKLYN,40.619083,-73.950264,1,Injured,0,Driver Inattention,4465787
+Wednesday,06-10-2021 19:00,BROOKLYN,40.70028,-73.941154,1,Injured,0,Driver Inattention,4465198
+Wednesday,06-10-2021 19:00,QUEENS,40.708694,-73.80362,0,No Injury,0,Driver Inattention,4465458
+Wednesday,06-10-2021 19:10,BROOKLYN,40.64519,-73.948,1,Injured,0,Other Vehicular,4465088
+Wednesday,06-10-2021 19:20,BRONX,40.817795,-73.89319,1,Injured,0,Failure to Yield Right-of-Way,4465306
+Wednesday,06-10-2021 19:30,QUEENS,40.667027,-73.81326,0,No Injury,0,Following Too Closely,4466008
+Wednesday,06-10-2021 19:30,QUEENS,40.709415,-73.76293,0,No Injury,0,Driver Inattention,4465338
+Wednesday,06-10-2021 20:00,MANHATTAN,40.8098677,-73.9513113,1,Injured,0,Driver Inattention,4467042
+Wednesday,06-10-2021 20:04,BRONX,40.83147,-73.90566,2,Injured,0,Passenger Distraction,4465710
+Wednesday,06-10-2021 20:15,QUEENS,40.665478,-73.748795,0,No Injury,0,Following Too Closely,4465100
+Wednesday,06-10-2021 20:19,QUEENS,40.7636871,-73.8144329,0,No Injury,0,Backing Unsafely,4468940
+Wednesday,06-10-2021 20:24,MANHATTAN,40.800507,-73.96798,1,Injured,0,Failure to Yield Right-of-Way,4465163
+Wednesday,06-10-2021 20:25,STATEN ISLAND,40.611427,-74.116844,1,Injured,0,Pedestrian Confusion,4465109
+Wednesday,06-10-2021 20:30,BROOKLYN,40.6810657,-73.9253854,1,Injured,0,Driver Inattention,4467991
+Wednesday,06-10-2021 20:30,QUEENS,40.745728,-73.86213,1,Injured,0,Driver Inattention,4466072
+Wednesday,06-10-2021 20:55,BROOKLYN,40.595104,-74.00091,0,No Injury,0,Driver Inattention,4465606
+Wednesday,06-10-2021 21:03,QUEENS,40.742805,-73.90428,1,Injured,0,Traffic Control Disregarded,4465247
+Wednesday,06-10-2021 21:05,BROOKLYN,40.6431097,-74.0160711,1,Injured,0,Unsafe Speed,4467231
+Wednesday,06-10-2021 21:05,QUEENS,40.76217,-73.87041,0,No Injury,0,Driver Inattention,4465370
+Wednesday,06-10-2021 21:10,QUEENS,40.720375,-73.855515,0,No Injury,0,Failure to Yield Right-of-Way,4465122
+Wednesday,06-10-2021 21:15,QUEENS,40.670223,-73.72855,1,Injured,0,Failure to Yield Right-of-Way,4465101
+Wednesday,06-10-2021 21:38,QUEENS,40.698856,-73.904076,0,No Injury,0,Passing Too Closely,4466226
+Wednesday,06-10-2021 21:38,BRONX,40.862595,-73.83153,3,Injured,0,Following Too Closely,4465333
+Wednesday,06-10-2021 21:40,QUEENS,40.65912,-73.72667,0,No Injury,0,Backing Unsafely,4465102
+Wednesday,06-10-2021 21:53,MANHATTAN,40.854904,-73.92965,0,No Injury,0,Turning Improperly,4466177
+Wednesday,06-10-2021 22:07,QUEENS,40.690536,-73.807335,0,No Injury,0,Unsafe Speed,4465339
+Wednesday,06-10-2021 22:21,BROOKLYN,40.6383153,-73.9140952,0,No Injury,0,Fell Asleep,4465126
+Wednesday,06-10-2021 22:36,QUEENS,40.767935,-73.9202734,1,Injured,0,Other Vehicular,4467880
+Wednesday,06-10-2021 22:38,STATEN ISLAND,40.61258,-74.129166,0,No Injury,0,Driver Inattention,4465683
+Wednesday,06-10-2021 22:40,BROOKLYN,40.710243,-73.9584,2,Injured,0,Passing or Lane Usage Improper,4465133
+Wednesday,06-10-2021 22:50,BROOKLYN,40.62775,-73.93462,1,Injured,0,Driver Inattention,4465153
+Wednesday,06-10-2021 22:50,QUEENS,40.734985,-73.85066,1,Injured,0,Failure to Yield Right-of-Way,4465123
+Wednesday,06-10-2021 22:56,BRONX,40.837864,-73.86356,1,Injured,0,Driver Inattention,4473112
+Wednesday,06-10-2021 23:00,BROOKLYN,40.636074,-73.951096,0,No Injury,0,Road Rage,4465628
+Wednesday,06-10-2021 23:10,BROOKLYN,40.66969,-73.995834,0,No Injury,0,Passing or Lane Usage Improper,4465199
+Wednesday,06-10-2021 23:30,BRONX,40.845493,-73.883484,1,Injured,0,Driver Inattention,4465195
+Wednesday,06-10-2021 23:51,MANHATTAN,40.7341384,-73.9991845,0,No Injury,0,Driver Inattention,4466372
+Wednesday,06-10-2021 23:54,BROOKLYN,40.63771,-73.948166,0,No Injury,0,Following Too Closely,4465540
+Wednesday,07-10-2021 00:00,QUEENS,40.7459115,-73.9528779,1,Injured,0,Backing Unsafely,4467183
+Wednesday,07-10-2021 00:00,QUEENS,40.589596,-73.791145,0,No Injury,0,Other Vehicular,4465692
+Wednesday,07-10-2021 00:15,MANHATTAN,40.80275,-73.93358,1,Injured,0,Driver Inattention,4465206
+Thursday,07-10-2021 00:41,MANHATTAN,40.7647362,-73.988033,1,Injured,0,Driver Inattention,4466332
+Thursday,07-10-2021 01:36,BROOKLYN,40.64488,-73.893,0,No Injury,0,Backing Unsafely,4465501
+Thursday,07-10-2021 01:50,BRONX,40.831966,-73.8967,0,No Injury,0,Alcohol Involvement,4465167
+Thursday,07-10-2021 02:54,STATEN ISLAND,40.5567026,-74.1159471,0,No Injury,0,Driver Inattention,4466986
+Thursday,07-10-2021 03:00,QUEENS,40.742382,-73.91195,0,No Injury,0,Driver Inattention,4465244
+Thursday,07-10-2021 03:48,QUEENS,40.73274,-73.86836,0,No Injury,0,Driver Inattention,4465588
+Thursday,07-10-2021 04:36,BROOKLYN,40.68297,-73.97667,1,Injured,0,Following Too Closely,4465176
+Thursday,07-10-2021 05:00,QUEENS,40.73396,-73.80735,0,No Injury,0,Fell Asleep,4465383
+Thursday,07-10-2021 05:30,MANHATTAN,40.7452028,-73.9945236,1,Injured,0,Following Too Closely,4466721
+Thursday,07-10-2021 06:13,BRONX,40.895374,-73.86356,1,Injured,0,Turning Improperly,4465215
+Thursday,07-10-2021 06:28,BRONX,40.831745,-73.892426,0,No Injury,0,Failure to Yield Right-of-Way,4465171
+Thursday,07-10-2021 06:50,BROOKLYN,40.618973,-74.00523,1,Injured,0,Failure to Yield Right-of-Way,4465600
+Thursday,07-10-2021 07:25,BROOKLYN,40.6870097,-73.9196066,0,No Injury,0,Tire Failure,4465821
+Thursday,07-10-2021 07:58,BROOKLYN,40.684032,-73.91742,1,Injured,0,Failure to Yield Right-of-Way,4465418
+Thursday,07-10-2021 08:00,MANHATTAN,40.825756,-73.95094,0,No Injury,0,Passing Too Closely,4465475
+Thursday,07-10-2021 08:00,BRONX,40.883556,-73.84974,1,Injured,0,Traffic Control Disregarded,4465222
+Thursday,07-10-2021 08:03,MANHATTAN,40.7978898,-73.9368996,1,Injured,0,Other Vehicular,4466744
+Thursday,07-10-2021 08:11,QUEENS,40.711845,-73.859764,1,Injured,0,Failure to Yield Right-of-Way,4465396
+Thursday,07-10-2021 08:15,STATEN ISLAND,40.560085,-74.16505,0,No Injury,0,Following Too Closely,4465409
+Thursday,07-10-2021 08:30,QUEENS,40.6000251,-73.757404,0,No Injury,0,Reaction to Uninvolved Vehicle,4466451
+Thursday,07-10-2021 08:30,MANHATTAN,40.7909056,-73.9391302,1,Injured,0,Glare,4465991
+Thursday,07-10-2021 08:40,QUEENS,40.693592,-73.75122,0,No Injury,0,Reaction to Uninvolved Vehicle,4465254
+Thursday,07-10-2021 08:45,STATEN ISLAND,40.603844,-74.12074,1,Injured,0,Passing or Lane Usage Improper,4465411
+Thursday,07-10-2021 09:00,QUEENS,40.70002,-73.801315,0,No Injury,0,Driver Inattention,4477402
+Thursday,07-10-2021 09:00,MANHATTAN,40.788273,-73.97239,0,No Injury,0,Passing Too Closely,4465307
+Thursday,07-10-2021 09:00,BRONX,40.88599,-73.82792,0,No Injury,0,Driver Inattention,4465835
+Thursday,07-10-2021 09:10,BROOKLYN,40.703575,-73.93282,1,Injured,0,Failure to Yield Right-of-Way,4465233
+Thursday,07-10-2021 09:11,QUEENS,40.66705,-73.77417,0,No Injury,0,Unsafe Lane Changing,4465452
+Thursday,07-10-2021 09:11,QUEENS,40.74341,-73.85152,0,No Injury,0,Failure to Yield Right-of-Way,4465401
+Thursday,07-10-2021 09:15,QUEENS,40.734673,-73.87435,1,Injured,0,Traffic Control Disregarded,4465260
+Thursday,07-10-2021 09:20,BROOKLYN,40.62497,-73.978485,0,No Injury,0,Driver Inattention,4465654
+Thursday,07-10-2021 09:45,QUEENS,40.671932,-73.85165,0,No Injury,0,Unsafe Lane Changing,4465245
+Thursday,07-10-2021 09:55,BRONX,40.83,-73.91812,0,No Injury,0,Driver Inattention,4465346
+Thursday,07-10-2021 10:00,BROOKLYN,40.67346,-73.97942,0,No Injury,0,Passing or Lane Usage Improper,4465955
+Thursday,07-10-2021 10:45,MANHATTAN,40.776724,-73.9792859,0,No Injury,0,Other Vehicular,4468498
+Thursday,07-10-2021 10:50,BROOKLYN,40.7093173,-73.9329972,0,No Injury,0,Passing Too Closely,4468093
+Thursday,07-10-2021 10:55,QUEENS,40.759884,-73.9368,0,No Injury,0,Driver Inattention,4465304
+Thursday,07-10-2021 10:58,QUEENS,40.66563,-73.73921,1,Injured,0,Following Too Closely,4465310
+Thursday,07-10-2021 11:10,BRONX,40.855118,-73.8677,1,Injured,0,Driver Inattention,4465330
+Thursday,07-10-2021 11:18,STATEN ISLAND,40.59241,-74.109116,0,No Injury,0,Failure to Yield Right-of-Way,4465410
+Thursday,07-10-2021 11:30,MANHATTAN,40.7619084,-73.9696292,0,No Injury,0,Other Vehicular,4466311
+Thursday,07-10-2021 11:30,BROOKLYN,40.620094,-73.96328,1,Injured,0,Failure to Yield Right-of-Way,4465624
+Thursday,07-10-2021 11:33,MANHATTAN,40.776016,-73.98724,1,Injured,0,View Obstructed,4465723
+Thursday,07-10-2021 11:45,MANHATTAN,40.7999524,-73.9544023,1,Injured,0,Driver Inattention,4470784
+Thursday,07-10-2021 11:45,MANHATTAN,40.7234696,-73.9832226,0,No Injury,0,Other Vehicular,4466622
+Thursday,07-10-2021 11:45,MANHATTAN,40.715046,-73.99252,0,No Injury,0,Passing Too Closely,4473524
+Thursday,07-10-2021 11:46,BROOKLYN,40.6807878,-73.919574,1,Injured,0,Unsafe Speed,4468038
+Thursday,07-10-2021 11:54,BROOKLYN,40.611603,-73.91971,1,Injured,0,Driver Inexperience,4465405
+Thursday,07-10-2021 12:00,QUEENS,40.71476,-73.82104,1,Injured,0,Driver Inattention,4465471
+Thursday,07-10-2021 12:10,QUEENS,40.776665,-73.78281,1,Injured,0,Fatigue,4465390
+Thursday,07-10-2021 12:16,BRONX,40.880836,-73.86677,0,No Injury,0,Backing Unsafely,4465838
+Thursday,07-10-2021 12:18,QUEENS,40.74348,-73.921486,0,No Injury,0,Reaction to Uninvolved Vehicle,4465252
+Thursday,07-10-2021 12:31,MANHATTAN,40.750217,-73.979065,0,No Injury,0,Driver Inattention,4466146
+Thursday,07-10-2021 12:39,QUEENS,40.682243,-73.82222,1,Injured,0,Driver Inattention,4466006
+Thursday,07-10-2021 12:44,BROOKLYN,40.63949,-73.91017,1,Injured,0,Passenger Distraction,4465506
+Thursday,07-10-2021 12:50,QUEENS,40.73068,-73.77581,1,Injured,0,Driver Inexperience,4465341
+Thursday,07-10-2021 12:54,QUEENS,40.66454,-73.82276,1,Injured,0,Following Too Closely,4465303
+Thursday,07-10-2021 13:00,STATEN ISLAND,40.638214,-74.07589,1,Injured,0,Driver Inattention,4465690
+Thursday,07-10-2021 13:05,BROOKLYN,40.669257,-73.9172777,1,Injured,0,Lost Consciousness,4466426
+Thursday,07-10-2021 13:05,BROOKLYN,40.66761,-73.94236,0,No Injury,0,Passing Too Closely,4465487
+Thursday,07-10-2021 13:20,QUEENS,40.692516,-73.85911,0,No Injury,0,Passing Too Closely,4465512
+Thursday,07-10-2021 13:30,BROOKLYN,40.696198,-73.98877,1,Injured,0,Passing Too Closely,4465354
+Thursday,07-10-2021 13:36,QUEENS,40.73675,-73.87768,0,No Injury,0,Driver Inattention,4465746
+Thursday,07-10-2021 13:37,BRONX,40.898308,-73.8503,1,Injured,0,Driver Inattention,4465842
+Thursday,07-10-2021 13:50,MANHATTAN,40.8033321,-73.9551798,0,No Injury,0,View Obstructed,4467067
+Thursday,07-10-2021 13:51,BRONX,40.895927,-73.87392,2,Injured,0,Following Too Closely,4465813
+Thursday,07-10-2021 14:00,BRONX,40.8208121,-73.866034,1,Injured,0,Passing or Lane Usage Improper,4467455
+Thursday,07-10-2021 14:00,BROOKLYN,40.7198,-73.953476,1,Injured,0,Passing or Lane Usage Improper,4465904
+Thursday,07-10-2021 14:00,QUEENS,40.730885,-73.87165,0,No Injury,0,Other Vehicular,4465395
+Thursday,07-10-2021 14:01,QUEENS,40.74788,-73.85731,1,Injured,0,Driver Inattention,4465313
+Thursday,07-10-2021 14:15,QUEENS,40.67416,-73.72756,0,No Injury,0,Failure to Yield Right-of-Way,4465321
+Thursday,07-10-2021 14:20,MANHATTAN,40.809547,-73.94183,0,No Injury,0,Reaction to Uninvolved Vehicle,4466044
+Thursday,07-10-2021 14:22,MANHATTAN,40.7763113,-73.9642299,1,Injured,0,Pedestrian Confusion,4465335
+Thursday,07-10-2021 14:30,QUEENS,40.6733217,-73.8463905,0,No Injury,0,Driver Inexperience,4466011
+Thursday,07-10-2021 14:30,QUEENS,40.743263,-73.91964,0,No Injury,0,Driver Inexperience,4465488
+Thursday,07-10-2021 14:33,BROOKLYN,40.578358,-73.9905035,1,Injured,0,Driver Inattention,4466981
+Thursday,07-10-2021 14:40,BROOKLYN,40.628662,-73.976036,1,Injured,0,Passing or Lane Usage Improper,4465759
+Thursday,07-10-2021 14:45,BROOKLYN,40.6489032,-73.9646386,0,No Injury,0,Driver Inattention,4470874
+Thursday,07-10-2021 15:00,QUEENS,40.715492,-73.834404,0,No Injury,0,Following Too Closely,4465362
+Thursday,07-10-2021 15:00,QUEENS,40.73733,-73.810455,0,No Injury,0,Passing Too Closely,4465376
+Thursday,07-10-2021 15:04,BROOKLYN,40.68305,-73.97377,0,No Injury,0,Following Too Closely,4465970
+Thursday,07-10-2021 15:08,QUEENS,40.73572,-73.93677,0,No Injury,0,Driver Inattention,4465365
+Thursday,07-10-2021 15:12,BROOKLYN,40.64624,-73.958084,1,Injured,0,Pedestrian Confusion,4465625
+Thursday,07-10-2021 15:15,BROOKLYN,40.69613,-73.987114,1,Injured,0,Driver Inattention,4465584
+Thursday,07-10-2021 15:22,BROOKLYN,40.617268,-74.01921,0,No Injury,0,Driver Inattention,4465400
+Thursday,07-10-2021 15:28,BRONX,40.82874,-73.877304,1,Injured,0,Driver Inattention,4474007
+Thursday,07-10-2021 15:30,QUEENS,40.68572,-73.84762,1,Injured,0,Following Too Closely,4465515
+Thursday,07-10-2021 15:30,QUEENS,40.680923,-73.83544,0,No Injury,0,Passing Too Closely,4466019
+Thursday,07-10-2021 15:38,QUEENS,40.65616,-73.76736,2,Injured,0,Failure to Yield Right-of-Way,4465421
+Thursday,07-10-2021 15:40,QUEENS,40.7581922,-73.8231763,0,No Injury,0,Failure to Yield Right-of-Way,4468921
+Thursday,07-10-2021 15:40,QUEENS,40.692314,-73.88268,0,No Injury,0,Following Too Closely,4465790
+Thursday,07-10-2021 15:43,QUEENS,40.749485,-73.7756,0,No Injury,0,Driver Inattention,4465500
+Thursday,07-10-2021 15:45,BROOKLYN,40.70278,-73.946915,1,Injured,0,Driver Inattention,4465483
+Thursday,07-10-2021 16:00,QUEENS,40.769096,-73.833664,0,No Injury,0,Passing or Lane Usage Improper,4465463
+Thursday,07-10-2021 16:10,MANHATTAN,40.7587238,-73.983745,1,Injured,0,Unsafe Speed,4466315
+Thursday,07-10-2021 16:10,MANHATTAN,40.757233,-73.9898,1,Injured,0,Following Too Closely,4465575
+Thursday,07-10-2021 16:13,QUEENS,40.742836,-73.91592,0,No Injury,0,Driver Inattention,4465367
+Thursday,07-10-2021 16:14,BROOKLYN,40.61255,-73.96287,0,No Injury,0,Driver Inattention,4465761
+Thursday,07-10-2021 16:15,BROOKLYN,40.714382,-73.93345,0,No Injury,0,Passing or Lane Usage Improper,4465612
+Thursday,07-10-2021 16:17,MANHATTAN,40.782055,-73.95373,1,Injured,0,Unsafe Lane Changing,4466009
+Thursday,07-10-2021 16:30,BROOKLYN,40.6076551,-74.0170205,1,Injured,0,Failure to Yield Right-of-Way,4467490
+Thursday,07-10-2021 16:30,QUEENS,40.765747,-73.86409,0,No Injury,0,Driver Inattention,4465369
+Thursday,07-10-2021 16:33,MANHATTAN,40.79174,-73.97475,0,No Injury,0,Passing Too Closely,4465385
+Thursday,07-10-2021 16:40,BROOKLYN,40.61964,-73.91578,0,No Injury,0,Traffic Control Disregarded,4465407
+Thursday,07-10-2021 16:40,QUEENS,40.75975,-73.89087,1,Injured,0,Driver Inattention,4465525
+Thursday,07-10-2021 16:45,QUEENS,40.759445,-73.78964,0,No Injury,0,Driver Inattention,4465517
+Thursday,07-10-2021 16:47,BROOKLYN,40.5792123,-73.9762585,1,Injured,0,Backing Unsafely,4466420
+Thursday,07-10-2021 16:54,BROOKLYN,40.6644448,-73.907512,1,Injured,0,Driver Inattention,4466410
+Thursday,07-10-2021 16:55,QUEENS,40.765423,-73.89001,3,Injured,0,Driver Inexperience,4465527
+Thursday,07-10-2021 17:08,QUEENS,40.762386,-73.742935,2,Injured,0,Failure to Yield Right-of-Way,4465392
+Thursday,07-10-2021 17:10,QUEENS,40.76226,-73.7569828,1,Injured,0,Driver Inattention,4467702
+Thursday,07-10-2021 17:15,MANHATTAN,40.82403,-73.94476,0,No Injury,0,Passing Too Closely,4465476
+Thursday,07-10-2021 17:16,QUEENS,40.74848,-73.87577,0,No Injury,0,Unsafe Lane Changing,4465402
+Thursday,07-10-2021 17:25,BROOKLYN,40.63267,-73.93105,0,No Injury,0,Driver Inattention,4465947
+Thursday,07-10-2021 17:30,MANHATTAN,40.7703138,-73.9914004,0,No Injury,0,Other Vehicular,4466316
+Thursday,07-10-2021 17:35,BROOKLYN,40.71337,-73.934814,0,No Injury,0,Passing Too Closely,4465950
+Thursday,07-10-2021 17:40,MANHATTAN,40.739086,-73.99139,0,No Injury,0,Driver Inexperience,4465660
+Thursday,07-10-2021 17:45,MANHATTAN,40.7189626,-74.0012734,0,No Injury,0,Passing Too Closely,4466336
+Thursday,07-10-2021 17:45,QUEENS,40.7012773,-73.78311,0,No Injury,0,Passing or Lane Usage Improper,4467428
+Thursday,07-10-2021 17:49,BROOKLYN,40.6791096,-73.9313916,1,Injured,0,Driver Inattention,4468048
+Thursday,07-10-2021 18:00,MANHATTAN,40.7821994,-73.9511638,0,No Injury,0,Driver Inattention,4467326
+Thursday,07-10-2021 18:00,MANHATTAN,40.77929,-73.98114,0,No Injury,0,Backing Unsafely,4466165
+Thursday,07-10-2021 18:00,BROOKLYN,40.6104,-73.9586,1,Injured,0,Driver Inattention,4465641
+Thursday,07-10-2021 18:29,MANHATTAN,40.826427,-73.950455,1,Injured,0,Turning Improperly,4465586
+Thursday,07-10-2021 18:34,BROOKLYN,40.666706,-73.871826,1,Injured,0,Following Too Closely,4466126
+Thursday,07-10-2021 18:40,BROOKLYN,40.705666,-73.93341,0,No Injury,0,Passing or Lane Usage Improper,4465949
+Thursday,07-10-2021 18:52,BROOKLYN,40.6358,-73.903595,1,Injured,0,Failure to Yield Right-of-Way,4465848
+Thursday,07-10-2021 19:00,QUEENS,40.6997872,-73.737481,0,No Injury,0,Backing Unsafely,4467498
+Thursday,07-10-2021 19:00,QUEENS,40.734375,-73.87342,1,Injured,0,Driver Inattention,4466071
+Thursday,07-10-2021 19:03,QUEENS,40.743263,-73.91964,0,No Injury,0,Driver Inattention,4465393
+Thursday,07-10-2021 19:18,BROOKLYN,40.678516,-73.963905,1,Injured,0,Unsafe Speed,4472588
+Thursday,07-10-2021 19:20,MANHATTAN,40.81053,-73.96206,0,No Injury,0,Failure to Yield Right-of-Way,4465815
+Thursday,07-10-2021 19:27,BROOKLYN,40.64165,-73.90378,1,Injured,0,Driver Inattention,4465427
+Thursday,07-10-2021 19:30,QUEENS,40.76052,-73.87379,1,Injured,0,Driver Inattention,4465374
+Thursday,07-10-2021 19:34,QUEENS,40.6919944,-73.7611009,1,Injured,0,Following Too Closely,4467206
+Thursday,07-10-2021 19:37,BROOKLYN,40.6379069,-73.8877923,1,Injured,0,Road Rage,4466265
+Thursday,07-10-2021 19:40,BROOKLYN,40.683125,-73.98744,0,No Injury,0,Driver Inattention,4465431
+Thursday,07-10-2021 19:41,BRONX,40.8313358,-73.9216614,1,Injured,0,Driver Inattention,4466812
+Thursday,07-10-2021 20:00,QUEENS,40.749062,-73.8908172,0,No Injury,0,Driver Inattention,4467866
+Thursday,07-10-2021 20:14,BRONX,40.85088,-73.851814,1,Injured,0,Failure to Yield Right-of-Way,4465477
+Thursday,07-10-2021 20:15,BRONX,40.85422,-73.86773,1,Injured,0,Driver Inattention,4465478
+Thursday,07-10-2021 20:24,QUEENS,40.755505,-73.86816,0,No Injury,0,Driver Inattention,4465437
+Thursday,07-10-2021 20:30,BROOKLYN,40.72533,-73.9457591,0,No Injury,0,Driver Inexperience,4470808
+Thursday,07-10-2021 20:42,BRONX,40.8637993,-73.9025197,0,No Injury,0,Driver Inexperience,4467413
+Thursday,07-10-2021 20:57,BRONX,40.82461,-73.910484,0,No Injury,0,Unsafe Lane Changing,4465701
+Thursday,07-10-2021 21:07,QUEENS,40.666695,-73.767136,1,Injured,0,Passing Too Closely,4465422
+Thursday,07-10-2021 21:27,MANHATTAN,40.806107,-73.94039,0,No Injury,0,Unsafe Lane Changing,4466085
+Thursday,07-10-2021 21:29,BROOKLYN,40.680036,-73.9054924,1,Injured,0,Passing or Lane Usage Improper,4466366
+Thursday,07-10-2021 21:55,MANHATTAN,40.8011739,-73.9507181,1,Injured,0,Driver Inattention,4470091
+Thursday,07-10-2021 21:57,STATEN ISLAND,40.5985436,-74.0794843,0,No Injury,0,Backing Unsafely,4466743
+Thursday,07-10-2021 22:00,BROOKLYN,40.72618,-73.93846,0,No Injury,0,Driver Inattention,4466004
+Thursday,07-10-2021 22:21,BROOKLYN,40.680405,-73.88764,1,Injured,0,Other Vehicular,4466051
+Thursday,07-10-2021 22:30,BROOKLYN,40.675392,-73.98117,1,Injured,0,Passing Too Closely,4465972
+Thursday,07-10-2021 22:48,BRONX,40.8256666,-73.8754874,2,Injured,0,Traffic Control Disregarded,4467454
+Thursday,07-10-2021 22:50,STATEN ISLAND,40.5870756,-74.1039242,1,Injured,0,Driver Inattention,4466389
+Thursday,07-10-2021 22:50,QUEENS,40.69915,-73.78025,0,No Injury,0,Unsafe Speed,4465957
+Thursday,07-10-2021 23:09,STATEN ISLAND,40.619,-74.084785,4,Injured,0,Unsafe Speed,4465688
+Thursday,07-10-2021 23:10,QUEENS,40.7020766,-73.8791656,0,No Injury,0,Turning Improperly,4467007
+Thursday,07-10-2021 23:15,STATEN ISLAND,40.5250272,-74.2392663,0,No Injury,0,Other Vehicular,4466740
+Thursday,07-10-2021 23:30,QUEENS,40.712877,-73.8788932,0,No Injury,0,Driver Inattention,4466794
+Thursday,07-10-2021 23:40,BROOKLYN,40.614582,-74.02962,0,No Injury,0,Passing Too Closely,4465460
+Thursday,07-10-2021 23:57,BROOKLYN,40.6556301,-73.9531588,0,No Injury,0,Backing Unsafely,4466664
